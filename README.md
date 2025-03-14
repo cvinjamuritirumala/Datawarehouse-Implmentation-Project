@@ -94,6 +94,25 @@ Various types of analysis are performed on the data:
 - **Visualization of Distributions**: Histograms and KDE plots are used to visualize the distributions of numeric variables.
 - **Categorical Data Visualization**: Count plots are used to visualize the counts of categorical variables, such as gender and zone.
 
+
+## Correlation Matrix for fact_asthma_cases
+![Correlation Matrix for fact_asthma_cases](images/correlation_fact_asthma_cases.png "Correlation Matrix for Fact Asthma Cases")
+
+## Correlation Matrix for dim_patient
+![Correlation Matrix for dim_patient](images/correlation_dim_patient.png "Correlation Matrix for Patient Data")
+
+## Correlation Matrix for dim_location
+![Correlation Matrix for dim_location](images/correlation_dim_location.png "Correlation Matrix for Location Data")
+
+## Distribution of Count in fact_asthma_cases
+![Distribution of Count in fact_asthma_cases](images/distribution_count_fact_asthma_cases.png "Distribution of Count in Fact Asthma Cases")
+
+## Distribution of Age in dim_patient
+![Distribution of Age in dim_patient](images/distribution_age_dim_patient.png "Distribution of Age in Patient Data")
+
+## Distribution of Population in dim_location
+![Distribution of Population in dim_location](images/distribution_population_dim_location.png "Distribution of Population in Location Data")
+
 ## Queries and Results
 
 Here are some example queries executed on Redshift for analytical insights:
