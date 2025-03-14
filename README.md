@@ -55,6 +55,13 @@ os.environ['AWS_SECRET_ACCESS_KEY'] = 'SECRET_ACCESS_KEY'
 os.environ['AWS_DEFAULT_REGION'] = 'REGION'
 ```
 
+### AWS Configuration Screenshot
+![AWS Configuration](images/aws_configuration.png "AWS CLI Configuration")
+### Redshift Cluster Status Screenshot
+![Redshift Cluster Status](images/redshift_cluster_status.png "Redshift Cluster Status")
+### S3 Bucket Structure Screenshot
+![S3 Bucket Structure](images/s3_bucket_structure.png "S3 Bucket Structure with Asthma Data")
+
 ## ETL Process
 
 The ETL process involves three main phases:
@@ -67,6 +74,13 @@ The ETL process involves three main phases:
 2. **Transform**: Clean the extracted data, including tasks such as handling missing values, transforming dates, and data standardization.
 
 3. **Load**: Load the transformed data into the Redshift database.
+
+### Data Validation Output Screenshot
+![Data Validation Output](images/data_validation_output.png "Data Validation Checks in Redshift")
+### ETL Process Execution Screenshot
+![ETL Process Execution](images/etl_process_execution.png "ETL Script Running Successfully")
+### SQL Query Result Screenshot
+![SQL Query Result](images/sql_query_result.png "Asthma Cases by Year - Redshift Query")
 
 ### Tables Created in Redshift
 
