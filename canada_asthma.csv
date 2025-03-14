@@ -1,0 +1,1657 @@
+Year,Zone,Sex,Age Group,Population,Prevalence,Crude Prevalence Rate
+2000,Zone 4 - Central,F,0 to 9,23527,2628,11.17
+2000,Zone 4 - Central,F,10 to 19,29797,3663,12.29
+2000,Zone 4 - Central,F,20 to 29,30198,2558,8.47
+2000,Zone 4 - Central,F,30 to 39,34639,2275,6.57
+2000,Zone 4 - Central,F,40 to 49,32980,2352,7.13
+2000,Zone 4 - Central,F,50 to 59,24173,1875,7.76
+2000,Zone 4 - Central,F,60 to 69,14990,1048,6.99
+2000,Zone 4 - Central,F,70 to 79,12052,806,6.69
+2000,Zone 4 - Central,F,80 +,8411,445,5.29
+2000,Zone 4 - Central,M,0 to 9,23713,3796,16.01
+2000,Zone 4 - Central,M,10 to 19,30735,4392,14.29
+2000,Zone 4 - Central,M,20 to 29,28067,1466,5.22
+2000,Zone 4 - Central,M,30 to 39,31448,1133,3.6
+2000,Zone 4 - Central,M,40 to 49,30424,1054,3.46
+2000,Zone 4 - Central,M,50 to 59,22981,836,3.64
+2000,Zone 4 - Central,M,60 to 69,14044,615,4.38
+2000,Zone 4 - Central,M,70 to 79,8889,398,4.48
+2000,Zone 4 - Central,M,80 +,4006,189,4.72
+2000,Zone 3 - Eastern,F,0 to 9,8415,953,11.33
+2000,Zone 3 - Eastern,F,10 to 19,10929,1002,9.17
+2000,Zone 3 - Eastern,F,20 to 29,10667,648,6.07
+2000,Zone 3 - Eastern,F,30 to 39,12657,571,4.51
+2000,Zone 3 - Eastern,F,40 to 49,15258,749,4.91
+2000,Zone 3 - Eastern,F,50 to 59,12308,671,5.45
+2000,Zone 3 - Eastern,F,60 to 69,8521,451,5.29
+2000,Zone 3 - Eastern,F,70 to 79,6858,345,5.03
+2000,Zone 3 - Eastern,F,80 +,5643,251,4.45
+2000,Zone 3 - Eastern,M,0 to 9,8802,1377,15.64
+2000,Zone 3 - Eastern,M,10 to 19,11733,1379,11.75
+2000,Zone 3 - Eastern,M,20 to 29,10920,452,4.14
+2000,Zone 3 - Eastern,M,30 to 39,12412,293,2.36
+2000,Zone 3 - Eastern,M,40 to 49,15102,387,2.56
+2000,Zone 3 - Eastern,M,50 to 59,12773,340,2.66
+2000,Zone 3 - Eastern,M,60 to 69,8292,280,3.38
+2000,Zone 3 - Eastern,M,70 to 79,5414,205,3.79
+2000,Zone 3 - Eastern,M,80 +,2853,110,3.86
+2000,Zone 2 - Northern,F,0 to 9,7724,836,10.82
+2000,Zone 2 - Northern,F,10 to 19,9531,1016,10.66
+2000,Zone 2 - Northern,F,20 to 29,9980,768,7.7
+2000,Zone 2 - Northern,F,30 to 39,11943,676,5.66
+2000,Zone 2 - Northern,F,40 to 49,12834,753,5.87
+2000,Zone 2 - Northern,F,50 to 59,10147,636,6.27
+2000,Zone 2 - Northern,F,60 to 69,6797,406,5.97
+2000,Zone 2 - Northern,F,70 to 79,5746,303,5.27
+2000,Zone 2 - Northern,F,80 +,4572,226,4.94
+2000,Zone 2 - Northern,M,0 to 9,8357,1237,14.8
+2000,Zone 2 - Northern,M,10 to 19,10098,1173,11.62
+2000,Zone 2 - Northern,M,20 to 29,9938,438,4.41
+2000,Zone 2 - Northern,M,30 to 39,11645,357,3.07
+2000,Zone 2 - Northern,M,40 to 49,12670,378,2.98
+2000,Zone 2 - Northern,M,50 to 59,10322,290,2.81
+2000,Zone 2 - Northern,M,60 to 69,6578,213,3.24
+2000,Zone 2 - Northern,M,70 to 79,4444,187,4.21
+2000,Zone 2 - Northern,M,80 +,2260,101,4.47
+2000,Zone 1 - Western,F,0 to 9,9416,953,10.12
+2000,Zone 1 - Western,F,10 to 19,11922,1205,10.11
+2000,Zone 1 - Western,F,20 to 29,11986,868,7.24
+2000,Zone 1 - Western,F,30 to 39,15866,936,5.9
+2000,Zone 1 - Western,F,40 to 49,17474,1003,5.74
+2000,Zone 1 - Western,F,50 to 59,14376,885,6.16
+2000,Zone 1 - Western,F,60 to 69,9693,567,5.85
+2000,Zone 1 - Western,F,70 to 79,7792,450,5.78
+2000,Zone 1 - Western,F,80 +,6197,261,4.21
+2000,Zone 1 - Western,M,0 to 9,10098,1432,14.18
+2000,Zone 1 - Western,M,10 to 19,12401,1403,11.31
+2000,Zone 1 - Western,M,20 to 29,11847,466,3.93
+2000,Zone 1 - Western,M,30 to 39,14993,483,3.22
+2000,Zone 1 - Western,M,40 to 49,16812,501,2.98
+2000,Zone 1 - Western,M,50 to 59,14233,459,3.22
+2000,Zone 1 - Western,M,60 to 69,9535,341,3.58
+2000,Zone 1 - Western,M,70 to 79,6504,291,4.47
+2000,Zone 1 - Western,M,80 +,3496,160,4.58
+2001,Zone 4 - Central,F,0 to 9,22675,2555,11.27
+2001,Zone 4 - Central,F,10 to 19,30011,4055,13.51
+2001,Zone 4 - Central,F,20 to 29,30093,2784,9.25
+2001,Zone 4 - Central,F,30 to 39,34311,2493,7.27
+2001,Zone 4 - Central,F,40 to 49,33886,2671,7.88
+2001,Zone 4 - Central,F,50 to 59,25241,2141,8.48
+2001,Zone 4 - Central,F,60 to 69,15353,1199,7.81
+2001,Zone 4 - Central,F,70 to 79,12136,884,7.28
+2001,Zone 4 - Central,F,80 +,8762,504,5.75
+2001,Zone 4 - Central,M,0 to 9,23053,3754,16.28
+2001,Zone 4 - Central,M,10 to 19,30887,4954,16.04
+2001,Zone 4 - Central,M,20 to 29,28242,1707,6.04
+2001,Zone 4 - Central,M,30 to 39,31239,1241,3.97
+2001,Zone 4 - Central,M,40 to 49,31456,1221,3.88
+2001,Zone 4 - Central,M,50 to 59,23897,968,4.05
+2001,Zone 4 - Central,M,60 to 69,14387,667,4.64
+2001,Zone 4 - Central,M,70 to 79,9092,456,5.02
+2001,Zone 4 - Central,M,80 +,4301,209,4.86
+2001,Zone 3 - Eastern,F,0 to 9,8229,910,11.06
+2001,Zone 3 - Eastern,F,10 to 19,10788,1155,10.71
+2001,Zone 3 - Eastern,F,20 to 29,10454,713,6.82
+2001,Zone 3 - Eastern,F,30 to 39,12314,621,5.04
+2001,Zone 3 - Eastern,F,40 to 49,15289,809,5.29
+2001,Zone 3 - Eastern,F,50 to 59,12706,784,6.17
+2001,Zone 3 - Eastern,F,60 to 69,8653,482,5.57
+2001,Zone 3 - Eastern,F,70 to 79,6813,374,5.49
+2001,Zone 3 - Eastern,F,80 +,5759,278,4.83
+2001,Zone 3 - Eastern,M,0 to 9,8603,1366,15.88
+2001,Zone 3 - Eastern,M,10 to 19,11601,1568,13.52
+2001,Zone 3 - Eastern,M,20 to 29,10647,502,4.71
+2001,Zone 3 - Eastern,M,30 to 39,12023,317,2.64
+2001,Zone 3 - Eastern,M,40 to 49,15104,409,2.71
+2001,Zone 3 - Eastern,M,50 to 59,13125,404,3.08
+2001,Zone 3 - Eastern,M,60 to 69,8463,295,3.49
+2001,Zone 3 - Eastern,M,70 to 79,5459,232,4.25
+2001,Zone 3 - Eastern,M,80 +,2880,116,4.03
+2001,Zone 2 - Northern,F,0 to 9,7572,816,10.78
+2001,Zone 2 - Northern,F,10 to 19,9499,1137,11.97
+2001,Zone 2 - Northern,F,20 to 29,9734,842,8.65
+2001,Zone 2 - Northern,F,30 to 39,11691,743,6.36
+2001,Zone 2 - Northern,F,40 to 49,13052,868,6.65
+2001,Zone 2 - Northern,F,50 to 59,10466,707,6.76
+2001,Zone 2 - Northern,F,60 to 69,6959,456,6.55
+2001,Zone 2 - Northern,F,70 to 79,5698,339,5.95
+2001,Zone 2 - Northern,F,80 +,4679,241,5.15
+2001,Zone 2 - Northern,M,0 to 9,8145,1197,14.7
+2001,Zone 2 - Northern,M,10 to 19,10064,1362,13.53
+2001,Zone 2 - Northern,M,20 to 29,9669,485,5.02
+2001,Zone 2 - Northern,M,30 to 39,11495,388,3.38
+2001,Zone 2 - Northern,M,40 to 49,12793,429,3.35
+2001,Zone 2 - Northern,M,50 to 59,10678,334,3.13
+2001,Zone 2 - Northern,M,60 to 69,6747,216,3.2
+2001,Zone 2 - Northern,M,70 to 79,4485,189,4.21
+2001,Zone 2 - Northern,M,80 +,2360,115,4.87
+2001,Zone 1 - Western,F,0 to 9,9270,913,9.85
+2001,Zone 1 - Western,F,10 to 19,11810,1340,11.35
+2001,Zone 1 - Western,F,20 to 29,11695,959,8.2
+2001,Zone 1 - Western,F,30 to 39,15336,967,6.31
+2001,Zone 1 - Western,F,40 to 49,17773,1120,6.3
+2001,Zone 1 - Western,F,50 to 59,14817,1019,6.88
+2001,Zone 1 - Western,F,60 to 69,9870,616,6.24
+2001,Zone 1 - Western,F,70 to 79,7789,489,6.28
+2001,Zone 1 - Western,F,80 +,6378,304,4.77
+2001,Zone 1 - Western,M,0 to 9,9915,1415,14.27
+2001,Zone 1 - Western,M,10 to 19,12336,1634,13.25
+2001,Zone 1 - Western,M,20 to 29,11613,519,4.47
+2001,Zone 1 - Western,M,30 to 39,14477,531,3.67
+2001,Zone 1 - Western,M,40 to 49,17043,566,3.32
+2001,Zone 1 - Western,M,50 to 59,14677,520,3.54
+2001,Zone 1 - Western,M,60 to 69,9814,394,4.01
+2001,Zone 1 - Western,M,70 to 79,6552,290,4.43
+2001,Zone 1 - Western,M,80 +,3584,191,5.33
+2002,Zone 4 - Central,F,0 to 9,22059,2475,11.22
+2002,Zone 4 - Central,F,10 to 19,30002,4443,14.81
+2002,Zone 4 - Central,F,20 to 29,30258,3076,10.17
+2002,Zone 4 - Central,F,30 to 39,33899,2626,7.75
+2002,Zone 4 - Central,F,40 to 49,34838,2988,8.58
+2002,Zone 4 - Central,F,50 to 59,26205,2366,9.03
+2002,Zone 4 - Central,F,60 to 69,15863,1397,8.81
+2002,Zone 4 - Central,F,70 to 79,12145,924,7.61
+2002,Zone 4 - Central,F,80 +,9050,566,6.25
+2002,Zone 4 - Central,M,0 to 9,22381,3611,16.13
+2002,Zone 4 - Central,M,10 to 19,30934,5439,17.58
+2002,Zone 4 - Central,M,20 to 29,28497,1938,6.8
+2002,Zone 4 - Central,M,30 to 39,30897,1339,4.33
+2002,Zone 4 - Central,M,40 to 49,32471,1367,4.21
+2002,Zone 4 - Central,M,50 to 59,24789,1100,4.44
+2002,Zone 4 - Central,M,60 to 69,14870,721,4.85
+2002,Zone 4 - Central,M,70 to 79,9313,491,5.27
+2002,Zone 4 - Central,M,80 +,4498,234,5.2
+2002,Zone 3 - Eastern,F,0 to 9,7954,885,11.13
+2002,Zone 3 - Eastern,F,10 to 19,10688,1268,11.86
+2002,Zone 3 - Eastern,F,20 to 29,10260,761,7.42
+2002,Zone 3 - Eastern,F,30 to 39,11819,672,5.69
+2002,Zone 3 - Eastern,F,40 to 49,15360,840,5.47
+2002,Zone 3 - Eastern,F,50 to 59,13118,862,6.57
+2002,Zone 3 - Eastern,F,60 to 69,8870,533,6.01
+2002,Zone 3 - Eastern,F,70 to 79,6780,397,5.86
+2002,Zone 3 - Eastern,F,80 +,5837,292,5
+2002,Zone 3 - Eastern,M,0 to 9,8405,1323,15.74
+2002,Zone 3 - Eastern,M,10 to 19,11397,1760,15.44
+2002,Zone 3 - Eastern,M,20 to 29,10498,574,5.47
+2002,Zone 3 - Eastern,M,30 to 39,11609,335,2.89
+2002,Zone 3 - Eastern,M,40 to 49,15022,464,3.09
+2002,Zone 3 - Eastern,M,50 to 59,13492,426,3.16
+2002,Zone 3 - Eastern,M,60 to 69,8727,328,3.76
+2002,Zone 3 - Eastern,M,70 to 79,5533,242,4.37
+2002,Zone 3 - Eastern,M,80 +,2891,123,4.25
+2002,Zone 2 - Northern,F,0 to 9,7386,793,10.74
+2002,Zone 2 - Northern,F,10 to 19,9430,1250,13.26
+2002,Zone 2 - Northern,F,20 to 29,9584,878,9.16
+2002,Zone 2 - Northern,F,30 to 39,11382,817,7.18
+2002,Zone 2 - Northern,F,40 to 49,13209,947,7.17
+2002,Zone 2 - Northern,F,50 to 59,10774,800,7.43
+2002,Zone 2 - Northern,F,60 to 69,7197,513,7.13
+2002,Zone 2 - Northern,F,70 to 79,5700,369,6.47
+2002,Zone 2 - Northern,F,80 +,4729,251,5.31
+2002,Zone 2 - Northern,M,0 to 9,8006,1201,15
+2002,Zone 2 - Northern,M,10 to 19,10025,1518,15.14
+2002,Zone 2 - Northern,M,20 to 29,9489,544,5.73
+2002,Zone 2 - Northern,M,30 to 39,11290,405,3.59
+2002,Zone 2 - Northern,M,40 to 49,12864,492,3.82
+2002,Zone 2 - Northern,M,50 to 59,10923,359,3.29
+2002,Zone 2 - Northern,M,60 to 69,7045,251,3.56
+2002,Zone 2 - Northern,M,70 to 79,4554,195,4.28
+2002,Zone 2 - Northern,M,80 +,2429,109,4.49
+2002,Zone 1 - Western,F,0 to 9,9113,874,9.59
+2002,Zone 1 - Western,F,10 to 19,11742,1484,12.64
+2002,Zone 1 - Western,F,20 to 29,11504,1041,9.05
+2002,Zone 1 - Western,F,30 to 39,14786,1020,6.9
+2002,Zone 1 - Western,F,40 to 49,18011,1242,6.9
+2002,Zone 1 - Western,F,50 to 59,15198,1144,7.53
+2002,Zone 1 - Western,F,60 to 69,10232,698,6.82
+2002,Zone 1 - Western,F,70 to 79,7825,523,6.68
+2002,Zone 1 - Western,F,80 +,6464,341,5.28
+2002,Zone 1 - Western,M,0 to 9,9661,1355,14.03
+2002,Zone 1 - Western,M,10 to 19,12284,1857,15.12
+2002,Zone 1 - Western,M,20 to 29,11431,577,5.05
+2002,Zone 1 - Western,M,30 to 39,13995,572,4.09
+2002,Zone 1 - Western,M,40 to 49,17264,606,3.51
+2002,Zone 1 - Western,M,50 to 59,15068,566,3.76
+2002,Zone 1 - Western,M,60 to 69,10140,440,4.34
+2002,Zone 1 - Western,M,70 to 79,6588,306,4.64
+2002,Zone 1 - Western,M,80 +,3685,201,5.45
+2003,Zone 4 - Central,F,0 to 9,21310,2341,10.99
+2003,Zone 4 - Central,F,10 to 19,30095,4759,15.81
+2003,Zone 4 - Central,F,20 to 29,30517,3309,10.84
+2003,Zone 4 - Central,F,30 to 39,33482,2755,8.23
+2003,Zone 4 - Central,F,40 to 49,35571,3281,9.22
+2003,Zone 4 - Central,F,50 to 59,27264,2626,9.63
+2003,Zone 4 - Central,F,60 to 69,16419,1534,9.34
+2003,Zone 4 - Central,F,70 to 79,12228,969,7.92
+2003,Zone 4 - Central,F,80 +,9301,615,6.61
+2003,Zone 4 - Central,M,0 to 9,21766,3483,16
+2003,Zone 4 - Central,M,10 to 19,30832,5915,19.18
+2003,Zone 4 - Central,M,20 to 29,29039,2231,7.68
+2003,Zone 4 - Central,M,30 to 39,30418,1432,4.71
+2003,Zone 4 - Central,M,40 to 49,33438,1519,4.54
+2003,Zone 4 - Central,M,50 to 59,25712,1182,4.6
+2003,Zone 4 - Central,M,60 to 69,15440,809,5.24
+2003,Zone 4 - Central,M,70 to 79,9509,510,5.36
+2003,Zone 4 - Central,M,80 +,4629,252,5.44
+2003,Zone 3 - Eastern,F,0 to 9,7780,839,10.78
+2003,Zone 3 - Eastern,F,10 to 19,10523,1428,13.57
+2003,Zone 3 - Eastern,F,20 to 29,10301,818,7.94
+2003,Zone 3 - Eastern,F,30 to 39,11448,715,6.25
+2003,Zone 3 - Eastern,F,40 to 49,15233,903,5.93
+2003,Zone 3 - Eastern,F,50 to 59,13489,925,6.86
+2003,Zone 3 - Eastern,F,60 to 69,9129,596,6.53
+2003,Zone 3 - Eastern,F,70 to 79,6778,410,6.05
+2003,Zone 3 - Eastern,F,80 +,5842,314,5.37
+2003,Zone 3 - Eastern,M,0 to 9,8268,1307,15.81
+2003,Zone 3 - Eastern,M,10 to 19,11175,1902,17.02
+2003,Zone 3 - Eastern,M,20 to 29,10553,663,6.28
+2003,Zone 3 - Eastern,M,30 to 39,11253,368,3.27
+2003,Zone 3 - Eastern,M,40 to 49,14849,478,3.22
+2003,Zone 3 - Eastern,M,50 to 59,13890,486,3.5
+2003,Zone 3 - Eastern,M,60 to 69,9043,355,3.93
+2003,Zone 3 - Eastern,M,70 to 79,5516,234,4.24
+2003,Zone 3 - Eastern,M,80 +,2952,125,4.23
+2003,Zone 2 - Northern,F,0 to 9,7294,770,10.56
+2003,Zone 2 - Northern,F,10 to 19,9360,1339,14.31
+2003,Zone 2 - Northern,F,20 to 29,9493,963,10.14
+2003,Zone 2 - Northern,F,30 to 39,11166,880,7.88
+2003,Zone 2 - Northern,F,40 to 49,13257,1019,7.69
+2003,Zone 2 - Northern,F,50 to 59,11186,903,8.07
+2003,Zone 2 - Northern,F,60 to 69,7432,571,7.68
+2003,Zone 2 - Northern,F,70 to 79,5691,393,6.91
+2003,Zone 2 - Northern,F,80 +,4733,264,5.58
+2003,Zone 2 - Northern,M,0 to 9,7847,1247,15.89
+2003,Zone 2 - Northern,M,10 to 19,9946,1654,16.63
+2003,Zone 2 - Northern,M,20 to 29,9395,603,6.42
+2003,Zone 2 - Northern,M,30 to 39,10982,437,3.98
+2003,Zone 2 - Northern,M,40 to 49,12959,525,4.05
+2003,Zone 2 - Northern,M,50 to 59,11250,403,3.58
+2003,Zone 2 - Northern,M,60 to 69,7324,269,3.67
+2003,Zone 2 - Northern,M,70 to 79,4620,202,4.37
+2003,Zone 2 - Northern,M,80 +,2449,121,4.94
+2003,Zone 1 - Western,F,0 to 9,8904,859,9.65
+2003,Zone 1 - Western,F,10 to 19,11652,1607,13.79
+2003,Zone 1 - Western,F,20 to 29,11487,1135,9.88
+2003,Zone 1 - Western,F,30 to 39,14097,1057,7.5
+2003,Zone 1 - Western,F,40 to 49,18275,1330,7.28
+2003,Zone 1 - Western,F,50 to 59,15616,1266,8.11
+2003,Zone 1 - Western,F,60 to 69,10612,766,7.22
+2003,Zone 1 - Western,F,70 to 79,7861,552,7.02
+2003,Zone 1 - Western,F,80 +,6555,365,5.57
+2003,Zone 1 - Western,M,0 to 9,9432,1357,14.39
+2003,Zone 1 - Western,M,10 to 19,12248,2045,16.7
+2003,Zone 1 - Western,M,20 to 29,11386,680,5.97
+2003,Zone 1 - Western,M,30 to 39,13485,582,4.32
+2003,Zone 1 - Western,M,40 to 49,17447,684,3.92
+2003,Zone 1 - Western,M,50 to 59,15459,600,3.88
+2003,Zone 1 - Western,M,60 to 69,10463,488,4.66
+2003,Zone 1 - Western,M,70 to 79,6719,327,4.87
+2003,Zone 1 - Western,M,80 +,3758,208,5.53
+2004,Zone 4 - Central,F,0 to 9,20791,2273,10.93
+2004,Zone 4 - Central,F,10 to 19,29882,5069,16.96
+2004,Zone 4 - Central,F,20 to 29,30960,3547,11.46
+2004,Zone 4 - Central,F,30 to 39,32956,2940,8.92
+2004,Zone 4 - Central,F,40 to 49,36142,3481,9.63
+2004,Zone 4 - Central,F,50 to 59,28313,2874,10.15
+2004,Zone 4 - Central,F,60 to 69,17077,1705,9.98
+2004,Zone 4 - Central,F,70 to 79,12313,1020,8.28
+2004,Zone 4 - Central,F,80 +,9496,666,7.01
+2004,Zone 4 - Central,M,0 to 9,21143,3425,16.2
+2004,Zone 4 - Central,M,10 to 19,30689,6343,20.67
+2004,Zone 4 - Central,M,20 to 29,29548,2574,8.71
+2004,Zone 4 - Central,M,30 to 39,30042,1525,5.08
+2004,Zone 4 - Central,M,40 to 49,34094,1680,4.93
+2004,Zone 4 - Central,M,50 to 59,26638,1253,4.7
+2004,Zone 4 - Central,M,60 to 69,16026,882,5.5
+2004,Zone 4 - Central,M,70 to 79,9737,547,5.62
+2004,Zone 4 - Central,M,80 +,4776,265,5.55
+2004,Zone 3 - Eastern,F,0 to 9,7616,785,10.31
+2004,Zone 3 - Eastern,F,10 to 19,10390,1555,14.97
+2004,Zone 3 - Eastern,F,20 to 29,10205,874,8.56
+2004,Zone 3 - Eastern,F,30 to 39,11085,750,6.77
+2004,Zone 3 - Eastern,F,40 to 49,15113,959,6.35
+2004,Zone 3 - Eastern,F,50 to 59,13931,1008,7.24
+2004,Zone 3 - Eastern,F,60 to 69,9460,664,7.02
+2004,Zone 3 - Eastern,F,70 to 79,6740,417,6.19
+2004,Zone 3 - Eastern,F,80 +,5891,339,5.75
+2004,Zone 3 - Eastern,M,0 to 9,8161,1251,15.33
+2004,Zone 3 - Eastern,M,10 to 19,10975,2048,18.66
+2004,Zone 3 - Eastern,M,20 to 29,10535,759,7.2
+2004,Zone 3 - Eastern,M,30 to 39,10998,405,3.68
+2004,Zone 3 - Eastern,M,40 to 49,14586,504,3.46
+2004,Zone 3 - Eastern,M,50 to 59,14405,526,3.65
+2004,Zone 3 - Eastern,M,60 to 69,9270,382,4.12
+2004,Zone 3 - Eastern,M,70 to 79,5562,238,4.28
+2004,Zone 3 - Eastern,M,80 +,3016,140,4.64
+2004,Zone 2 - Northern,F,0 to 9,7177,753,10.49
+2004,Zone 2 - Northern,F,10 to 19,9344,1469,15.72
+2004,Zone 2 - Northern,F,20 to 29,9366,998,10.66
+2004,Zone 2 - Northern,F,30 to 39,10906,955,8.76
+2004,Zone 2 - Northern,F,40 to 49,13264,1074,8.1
+2004,Zone 2 - Northern,F,50 to 59,11690,1000,8.55
+2004,Zone 2 - Northern,F,60 to 69,7600,625,8.22
+2004,Zone 2 - Northern,F,70 to 79,5646,427,7.56
+2004,Zone 2 - Northern,F,80 +,4858,275,5.66
+2004,Zone 2 - Northern,M,0 to 9,7689,1237,16.09
+2004,Zone 2 - Northern,M,10 to 19,9871,1805,18.29
+2004,Zone 2 - Northern,M,20 to 29,9434,684,7.25
+2004,Zone 2 - Northern,M,30 to 39,10584,460,4.35
+2004,Zone 2 - Northern,M,40 to 49,13102,565,4.31
+2004,Zone 2 - Northern,M,50 to 59,11614,461,3.97
+2004,Zone 2 - Northern,M,60 to 69,7626,287,3.76
+2004,Zone 2 - Northern,M,70 to 79,4656,210,4.51
+2004,Zone 2 - Northern,M,80 +,2527,131,5.18
+2004,Zone 1 - Western,F,0 to 9,8773,883,10.06
+2004,Zone 1 - Western,F,10 to 19,11576,1742,15.05
+2004,Zone 1 - Western,F,20 to 29,11445,1211,10.58
+2004,Zone 1 - Western,F,30 to 39,13624,1112,8.16
+2004,Zone 1 - Western,F,40 to 49,18361,1466,7.98
+2004,Zone 1 - Western,F,50 to 59,16166,1394,8.62
+2004,Zone 1 - Western,F,60 to 69,10928,859,7.86
+2004,Zone 1 - Western,F,70 to 79,7915,567,7.16
+2004,Zone 1 - Western,F,80 +,6590,402,6.1
+2004,Zone 1 - Western,M,0 to 9,9232,1370,14.84
+2004,Zone 1 - Western,M,10 to 19,12140,2221,18.29
+2004,Zone 1 - Western,M,20 to 29,11285,776,6.88
+2004,Zone 1 - Western,M,30 to 39,13048,620,4.75
+2004,Zone 1 - Western,M,40 to 49,17478,737,4.22
+2004,Zone 1 - Western,M,50 to 59,15903,670,4.21
+2004,Zone 1 - Western,M,60 to 69,10817,509,4.71
+2004,Zone 1 - Western,M,70 to 79,6828,351,5.14
+2004,Zone 1 - Western,M,80 +,3800,206,5.42
+2005,Zone 4 - Central,F,0 to 9,20116,2166,10.77
+2005,Zone 4 - Central,F,10 to 19,29822,5390,18.07
+2005,Zone 4 - Central,F,20 to 29,31133,3761,12.08
+2005,Zone 4 - Central,F,30 to 39,32872,3164,9.63
+2005,Zone 4 - Central,F,40 to 49,36288,3680,10.14
+2005,Zone 4 - Central,F,50 to 59,29470,3191,10.83
+2005,Zone 4 - Central,F,60 to 69,17830,1860,10.43
+2005,Zone 4 - Central,F,70 to 79,12268,1059,8.63
+2005,Zone 4 - Central,F,80 +,9698,703,7.25
+2005,Zone 4 - Central,M,0 to 9,20713,3324,16.05
+2005,Zone 4 - Central,M,10 to 19,30308,6682,22.05
+2005,Zone 4 - Central,M,20 to 29,29850,2969,9.95
+2005,Zone 4 - Central,M,30 to 39,29913,1617,5.41
+2005,Zone 4 - Central,M,40 to 49,34439,1820,5.28
+2005,Zone 4 - Central,M,50 to 59,27554,1383,5.02
+2005,Zone 4 - Central,M,60 to 69,16760,949,5.66
+2005,Zone 4 - Central,M,70 to 79,9986,563,5.64
+2005,Zone 4 - Central,M,80 +,4907,298,6.07
+2005,Zone 3 - Eastern,F,0 to 9,7467,743,9.95
+2005,Zone 3 - Eastern,F,10 to 19,10208,1669,16.35
+2005,Zone 3 - Eastern,F,20 to 29,10167,923,9.08
+2005,Zone 3 - Eastern,F,30 to 39,10826,795,7.34
+2005,Zone 3 - Eastern,F,40 to 49,14917,1015,6.8
+2005,Zone 3 - Eastern,F,50 to 59,14316,1105,7.72
+2005,Zone 3 - Eastern,F,60 to 69,9734,713,7.32
+2005,Zone 3 - Eastern,F,70 to 79,6757,431,6.38
+2005,Zone 3 - Eastern,F,80 +,5893,340,5.77
+2005,Zone 3 - Eastern,M,0 to 9,7970,1167,14.64
+2005,Zone 3 - Eastern,M,10 to 19,10778,2199,20.4
+2005,Zone 3 - Eastern,M,20 to 29,10468,863,8.24
+2005,Zone 3 - Eastern,M,30 to 39,10788,469,4.35
+2005,Zone 3 - Eastern,M,40 to 49,14345,538,3.75
+2005,Zone 3 - Eastern,M,50 to 59,14658,575,3.92
+2005,Zone 3 - Eastern,M,60 to 69,9548,403,4.22
+2005,Zone 3 - Eastern,M,70 to 79,5678,256,4.51
+2005,Zone 3 - Eastern,M,80 +,3033,135,4.45
+2005,Zone 2 - Northern,F,0 to 9,7015,734,10.46
+2005,Zone 2 - Northern,F,10 to 19,9283,1544,16.63
+2005,Zone 2 - Northern,F,20 to 29,9363,1096,11.71
+2005,Zone 2 - Northern,F,30 to 39,10629,985,9.27
+2005,Zone 2 - Northern,F,40 to 49,13289,1140,8.58
+2005,Zone 2 - Northern,F,50 to 59,11998,1077,8.98
+2005,Zone 2 - Northern,F,60 to 69,7847,685,8.73
+2005,Zone 2 - Northern,F,70 to 79,5670,428,7.55
+2005,Zone 2 - Northern,F,80 +,4920,292,5.93
+2005,Zone 2 - Northern,M,0 to 9,7564,1201,15.88
+2005,Zone 2 - Northern,M,10 to 19,9730,1942,19.96
+2005,Zone 2 - Northern,M,20 to 29,9376,783,8.35
+2005,Zone 2 - Northern,M,30 to 39,10364,500,4.82
+2005,Zone 2 - Northern,M,40 to 49,13020,576,4.42
+2005,Zone 2 - Northern,M,50 to 59,11936,504,4.22
+2005,Zone 2 - Northern,M,60 to 69,7846,317,4.04
+2005,Zone 2 - Northern,M,70 to 79,4740,211,4.45
+2005,Zone 2 - Northern,M,80 +,2579,131,5.08
+2005,Zone 1 - Western,F,0 to 9,8544,893,10.45
+2005,Zone 1 - Western,F,10 to 19,11493,1885,16.4
+2005,Zone 1 - Western,F,20 to 29,11422,1279,11.2
+2005,Zone 1 - Western,F,30 to 39,13207,1177,8.91
+2005,Zone 1 - Western,F,40 to 49,18283,1558,8.52
+2005,Zone 1 - Western,F,50 to 59,16574,1503,9.07
+2005,Zone 1 - Western,F,60 to 69,11366,944,8.31
+2005,Zone 1 - Western,F,70 to 79,7933,603,7.6
+2005,Zone 1 - Western,F,80 +,6631,403,6.08
+2005,Zone 1 - Western,M,0 to 9,9003,1384,15.37
+2005,Zone 1 - Western,M,10 to 19,12002,2385,19.87
+2005,Zone 1 - Western,M,20 to 29,11263,863,7.66
+2005,Zone 1 - Western,M,30 to 39,12720,657,5.17
+2005,Zone 1 - Western,M,40 to 49,17350,811,4.67
+2005,Zone 1 - Western,M,50 to 59,16253,727,4.47
+2005,Zone 1 - Western,M,60 to 69,11181,548,4.9
+2005,Zone 1 - Western,M,70 to 79,6976,344,4.93
+2005,Zone 1 - Western,M,80 +,3886,225,5.79
+2006,Zone 4 - Central,F,0 to 9,19851,2083,10.49
+2006,Zone 4 - Central,F,10 to 19,29434,5503,18.7
+2006,Zone 4 - Central,F,20 to 29,31567,4076,12.91
+2006,Zone 4 - Central,F,30 to 39,32853,3342,10.17
+2006,Zone 4 - Central,F,40 to 49,36468,3889,10.66
+2006,Zone 4 - Central,F,50 to 59,30083,3319,11.03
+2006,Zone 4 - Central,F,60 to 69,19090,2136,11.19
+2006,Zone 4 - Central,F,70 to 79,12283,1120,9.12
+2006,Zone 4 - Central,F,80 +,10042,743,7.4
+2006,Zone 4 - Central,M,0 to 9,20388,3217,15.78
+2006,Zone 4 - Central,M,10 to 19,30009,6920,23.06
+2006,Zone 4 - Central,M,20 to 29,30204,3343,11.07
+2006,Zone 4 - Central,M,30 to 39,29928,1730,5.78
+2006,Zone 4 - Central,M,40 to 49,34646,1914,5.52
+2006,Zone 4 - Central,M,50 to 59,28278,1530,5.41
+2006,Zone 4 - Central,M,60 to 69,17891,1027,5.74
+2006,Zone 4 - Central,M,70 to 79,10261,581,5.66
+2006,Zone 4 - Central,M,80 +,5077,306,6.03
+2006,Zone 3 - Eastern,F,0 to 9,7400,716,9.68
+2006,Zone 3 - Eastern,F,10 to 19,10020,1734,17.31
+2006,Zone 3 - Eastern,F,20 to 29,10069,998,9.91
+2006,Zone 3 - Eastern,F,30 to 39,10552,814,7.71
+2006,Zone 3 - Eastern,F,40 to 49,14594,1031,7.06
+2006,Zone 3 - Eastern,F,50 to 59,14484,1133,7.82
+2006,Zone 3 - Eastern,F,60 to 69,10215,797,7.8
+2006,Zone 3 - Eastern,F,70 to 79,6885,457,6.64
+2006,Zone 3 - Eastern,F,80 +,5925,354,5.97
+2006,Zone 3 - Eastern,M,0 to 9,7840,1097,13.99
+2006,Zone 3 - Eastern,M,10 to 19,10583,2295,21.69
+2006,Zone 3 - Eastern,M,20 to 29,10360,952,9.19
+2006,Zone 3 - Eastern,M,30 to 39,10496,502,4.78
+2006,Zone 3 - Eastern,M,40 to 49,14006,549,3.92
+2006,Zone 3 - Eastern,M,50 to 59,14766,600,4.06
+2006,Zone 3 - Eastern,M,60 to 69,10124,454,4.48
+2006,Zone 3 - Eastern,M,70 to 79,5778,252,4.36
+2006,Zone 3 - Eastern,M,80 +,3018,145,4.8
+2006,Zone 2 - Northern,F,0 to 9,6999,761,10.87
+2006,Zone 2 - Northern,F,10 to 19,9172,1589,17.32
+2006,Zone 2 - Northern,F,20 to 29,9228,1099,11.91
+2006,Zone 2 - Northern,F,30 to 39,10526,1060,10.07
+2006,Zone 2 - Northern,F,40 to 49,13158,1163,8.84
+2006,Zone 2 - Northern,F,50 to 59,12156,1131,9.3
+2006,Zone 2 - Northern,F,60 to 69,8299,781,9.41
+2006,Zone 2 - Northern,F,70 to 79,5721,456,7.97
+2006,Zone 2 - Northern,F,80 +,4968,305,6.14
+2006,Zone 2 - Northern,M,0 to 9,7359,1132,15.38
+2006,Zone 2 - Northern,M,10 to 19,9757,2067,21.18
+2006,Zone 2 - Northern,M,20 to 29,9188,848,9.23
+2006,Zone 2 - Northern,M,30 to 39,10264,546,5.32
+2006,Zone 2 - Northern,M,40 to 49,12842,576,4.49
+2006,Zone 2 - Northern,M,50 to 59,12087,548,4.53
+2006,Zone 2 - Northern,M,60 to 69,8363,339,4.05
+2006,Zone 2 - Northern,M,70 to 79,4846,220,4.54
+2006,Zone 2 - Northern,M,80 +,2633,143,5.43
+2006,Zone 1 - Western,F,0 to 9,8454,936,11.07
+2006,Zone 1 - Western,F,10 to 19,11265,1935,17.18
+2006,Zone 1 - Western,F,20 to 29,11370,1349,11.86
+2006,Zone 1 - Western,F,30 to 39,12985,1251,9.63
+2006,Zone 1 - Western,F,40 to 49,17918,1618,9.03
+2006,Zone 1 - Western,F,50 to 59,16770,1563,9.32
+2006,Zone 1 - Western,F,60 to 69,12090,1074,8.88
+2006,Zone 1 - Western,F,70 to 79,7989,627,7.85
+2006,Zone 1 - Western,F,80 +,6719,433,6.44
+2006,Zone 1 - Western,M,0 to 9,8854,1351,15.26
+2006,Zone 1 - Western,M,10 to 19,11847,2499,21.09
+2006,Zone 1 - Western,M,20 to 29,11137,990,8.89
+2006,Zone 1 - Western,M,30 to 39,12441,686,5.51
+2006,Zone 1 - Western,M,40 to 49,17103,845,4.94
+2006,Zone 1 - Western,M,50 to 59,16385,772,4.71
+2006,Zone 1 - Western,M,60 to 69,11802,609,5.16
+2006,Zone 1 - Western,M,70 to 79,7143,378,5.29
+2006,Zone 1 - Western,M,80 +,3954,222,5.61
+2007,Zone 4 - Central,F,0 to 9,19421,2020,10.4
+2007,Zone 4 - Central,F,10 to 19,29008,5522,19.04
+2007,Zone 4 - Central,F,20 to 29,31630,4274,13.51
+2007,Zone 4 - Central,F,30 to 39,32760,3505,10.7
+2007,Zone 4 - Central,F,40 to 49,36431,3992,10.96
+2007,Zone 4 - Central,F,50 to 59,30559,3487,11.41
+2007,Zone 4 - Central,F,60 to 69,20424,2345,11.48
+2007,Zone 4 - Central,F,70 to 79,12401,1175,9.48
+2007,Zone 4 - Central,F,80 +,10208,765,7.49
+2007,Zone 4 - Central,M,0 to 9,20124,3037,15.09
+2007,Zone 4 - Central,M,10 to 19,29587,6986,23.61
+2007,Zone 4 - Central,M,20 to 29,30158,3693,12.25
+2007,Zone 4 - Central,M,30 to 39,29844,1854,6.21
+2007,Zone 4 - Central,M,40 to 49,34316,1978,5.76
+2007,Zone 4 - Central,M,50 to 59,28922,1661,5.74
+2007,Zone 4 - Central,M,60 to 69,19065,1107,5.81
+2007,Zone 4 - Central,M,70 to 79,10490,606,5.78
+2007,Zone 4 - Central,M,80 +,5232,310,5.93
+2007,Zone 3 - Eastern,F,0 to 9,7240,675,9.32
+2007,Zone 3 - Eastern,F,10 to 19,9804,1764,17.99
+2007,Zone 3 - Eastern,F,20 to 29,9902,1062,10.73
+2007,Zone 3 - Eastern,F,30 to 39,10302,856,8.31
+2007,Zone 3 - Eastern,F,40 to 49,14060,1053,7.49
+2007,Zone 3 - Eastern,F,50 to 59,14665,1172,7.99
+2007,Zone 3 - Eastern,F,60 to 69,10759,877,8.15
+2007,Zone 3 - Eastern,F,70 to 79,6914,481,6.96
+2007,Zone 3 - Eastern,F,80 +,5940,361,6.08
+2007,Zone 3 - Eastern,M,0 to 9,7703,1042,13.53
+2007,Zone 3 - Eastern,M,10 to 19,10298,2353,22.85
+2007,Zone 3 - Eastern,M,20 to 29,10202,1046,10.25
+2007,Zone 3 - Eastern,M,30 to 39,10176,531,5.22
+2007,Zone 3 - Eastern,M,40 to 49,13554,564,4.16
+2007,Zone 3 - Eastern,M,50 to 59,14728,622,4.22
+2007,Zone 3 - Eastern,M,60 to 69,10651,492,4.62
+2007,Zone 3 - Eastern,M,70 to 79,5927,286,4.83
+2007,Zone 3 - Eastern,M,80 +,3066,149,4.86
+2007,Zone 2 - Northern,F,0 to 9,6958,732,10.52
+2007,Zone 2 - Northern,F,10 to 19,8986,1615,17.97
+2007,Zone 2 - Northern,F,20 to 29,9145,1146,12.53
+2007,Zone 2 - Northern,F,30 to 39,10405,1101,10.58
+2007,Zone 2 - Northern,F,40 to 49,12872,1183,9.19
+2007,Zone 2 - Northern,F,50 to 59,12337,1170,9.48
+2007,Zone 2 - Northern,F,60 to 69,8844,840,9.5
+2007,Zone 2 - Northern,F,70 to 79,5741,473,8.24
+2007,Zone 2 - Northern,F,80 +,5017,319,6.36
+2007,Zone 2 - Northern,M,0 to 9,7346,1078,14.67
+2007,Zone 2 - Northern,M,10 to 19,9684,2140,22.1
+2007,Zone 2 - Northern,M,20 to 29,9003,941,10.45
+2007,Zone 2 - Northern,M,30 to 39,10057,570,5.67
+2007,Zone 2 - Northern,M,40 to 49,12553,579,4.61
+2007,Zone 2 - Northern,M,50 to 59,12322,576,4.67
+2007,Zone 2 - Northern,M,60 to 69,8775,366,4.17
+2007,Zone 2 - Northern,M,70 to 79,4966,236,4.75
+2007,Zone 2 - Northern,M,80 +,2675,146,5.46
+2007,Zone 1 - Western,F,0 to 9,8337,895,10.74
+2007,Zone 1 - Western,F,10 to 19,11113,2008,18.07
+2007,Zone 1 - Western,F,20 to 29,11201,1423,12.7
+2007,Zone 1 - Western,F,30 to 39,12669,1299,10.25
+2007,Zone 1 - Western,F,40 to 49,17471,1670,9.56
+2007,Zone 1 - Western,F,50 to 59,16971,1607,9.47
+2007,Zone 1 - Western,F,60 to 69,12779,1204,9.42
+2007,Zone 1 - Western,F,70 to 79,8159,666,8.16
+2007,Zone 1 - Western,F,80 +,6744,446,6.61
+2007,Zone 1 - Western,M,0 to 9,8660,1329,15.35
+2007,Zone 1 - Western,M,10 to 19,11762,2595,22.06
+2007,Zone 1 - Western,M,20 to 29,10929,1116,10.21
+2007,Zone 1 - Western,M,30 to 39,12121,694,5.73
+2007,Zone 1 - Western,M,40 to 49,16600,887,5.34
+2007,Zone 1 - Western,M,50 to 59,16611,799,4.81
+2007,Zone 1 - Western,M,60 to 69,12445,663,5.33
+2007,Zone 1 - Western,M,70 to 79,7310,402,5.5
+2007,Zone 1 - Western,M,80 +,4044,239,5.91
+2008,Zone 4 - Central,F,0 to 9,19394,1912,9.86
+2008,Zone 4 - Central,F,10 to 19,28326,5455,19.26
+2008,Zone 4 - Central,F,20 to 29,31993,4548,14.22
+2008,Zone 4 - Central,F,30 to 39,32803,3694,11.26
+2008,Zone 4 - Central,F,40 to 49,36204,4063,11.22
+2008,Zone 4 - Central,F,50 to 59,31445,3648,11.6
+2008,Zone 4 - Central,F,60 to 69,21523,2600,12.08
+2008,Zone 4 - Central,F,70 to 79,12647,1239,9.8
+2008,Zone 4 - Central,F,80 +,10384,807,7.77
+2008,Zone 4 - Central,M,0 to 9,20103,2886,14.36
+2008,Zone 4 - Central,M,10 to 19,28898,7032,24.33
+2008,Zone 4 - Central,M,20 to 29,30649,4106,13.4
+2008,Zone 4 - Central,M,30 to 39,29991,1952,6.51
+2008,Zone 4 - Central,M,40 to 49,34284,2045,5.96
+2008,Zone 4 - Central,M,50 to 59,29688,1793,6.04
+2008,Zone 4 - Central,M,60 to 69,20048,1185,5.91
+2008,Zone 4 - Central,M,70 to 79,10810,657,6.08
+2008,Zone 4 - Central,M,80 +,5434,315,5.8
+2008,Zone 3 - Eastern,F,0 to 9,7169,656,9.15
+2008,Zone 3 - Eastern,F,10 to 19,9675,1768,18.27
+2008,Zone 3 - Eastern,F,20 to 29,9795,1136,11.6
+2008,Zone 3 - Eastern,F,30 to 39,10158,897,8.83
+2008,Zone 3 - Eastern,F,40 to 49,13655,1077,7.89
+2008,Zone 3 - Eastern,F,50 to 59,14841,1222,8.23
+2008,Zone 3 - Eastern,F,60 to 69,11202,963,8.6
+2008,Zone 3 - Eastern,F,70 to 79,7033,503,7.15
+2008,Zone 3 - Eastern,F,80 +,5978,390,6.52
+2008,Zone 3 - Eastern,M,0 to 9,7703,999,12.97
+2008,Zone 3 - Eastern,M,10 to 19,10101,2388,23.64
+2008,Zone 3 - Eastern,M,20 to 29,10148,1173,11.56
+2008,Zone 3 - Eastern,M,30 to 39,10075,556,5.52
+2008,Zone 3 - Eastern,M,40 to 49,13221,566,4.28
+2008,Zone 3 - Eastern,M,50 to 59,14755,662,4.49
+2008,Zone 3 - Eastern,M,60 to 69,11089,524,4.73
+2008,Zone 3 - Eastern,M,70 to 79,6104,298,4.88
+2008,Zone 3 - Eastern,M,80 +,3116,155,4.97
+2008,Zone 2 - Northern,F,0 to 9,7046,673,9.55
+2008,Zone 2 - Northern,F,10 to 19,8903,1651,18.54
+2008,Zone 2 - Northern,F,20 to 29,9029,1166,12.91
+2008,Zone 2 - Northern,F,30 to 39,10331,1159,11.22
+2008,Zone 2 - Northern,F,40 to 49,12641,1247,9.86
+2008,Zone 2 - Northern,F,50 to 59,12511,1235,9.87
+2008,Zone 2 - Northern,F,60 to 69,9222,888,9.63
+2008,Zone 2 - Northern,F,70 to 79,5901,499,8.46
+2008,Zone 2 - Northern,F,80 +,5081,326,6.42
+2008,Zone 2 - Northern,M,0 to 9,7352,1013,13.78
+2008,Zone 2 - Northern,M,10 to 19,9629,2208,22.93
+2008,Zone 2 - Northern,M,20 to 29,8954,1060,11.84
+2008,Zone 2 - Northern,M,30 to 39,9932,592,5.96
+2008,Zone 2 - Northern,M,40 to 49,12437,604,4.86
+2008,Zone 2 - Northern,M,50 to 59,12428,614,4.94
+2008,Zone 2 - Northern,M,60 to 69,9187,393,4.28
+2008,Zone 2 - Northern,M,70 to 79,5102,242,4.74
+2008,Zone 2 - Northern,M,80 +,2758,160,5.8
+2008,Zone 1 - Western,F,0 to 9,8236,853,10.36
+2008,Zone 1 - Western,F,10 to 19,10928,2051,18.77
+2008,Zone 1 - Western,F,20 to 29,11164,1502,13.45
+2008,Zone 1 - Western,F,30 to 39,12381,1338,10.81
+2008,Zone 1 - Western,F,40 to 49,17146,1718,10.02
+2008,Zone 1 - Western,F,50 to 59,17208,1668,9.69
+2008,Zone 1 - Western,F,60 to 69,13385,1303,9.73
+2008,Zone 1 - Western,F,70 to 79,8339,716,8.59
+2008,Zone 1 - Western,F,80 +,6879,476,6.92
+2008,Zone 1 - Western,M,0 to 9,8580,1299,15.14
+2008,Zone 1 - Western,M,10 to 19,11630,2613,22.47
+2008,Zone 1 - Western,M,20 to 29,10919,1240,11.36
+2008,Zone 1 - Western,M,30 to 39,11838,718,6.07
+2008,Zone 1 - Western,M,40 to 49,16255,937,5.76
+2008,Zone 1 - Western,M,50 to 59,16774,848,5.06
+2008,Zone 1 - Western,M,60 to 69,13112,720,5.49
+2008,Zone 1 - Western,M,70 to 79,7477,427,5.71
+2008,Zone 1 - Western,M,80 +,4151,253,6.09
+2009,Zone 4 - Central,F,0 to 9,19216,1777,9.25
+2009,Zone 4 - Central,F,10 to 19,27597,5356,19.41
+2009,Zone 4 - Central,F,20 to 29,32328,4820,14.91
+2009,Zone 4 - Central,F,30 to 39,32789,3890,11.86
+2009,Zone 4 - Central,F,40 to 49,36108,4132,11.44
+2009,Zone 4 - Central,F,50 to 59,32339,3866,11.95
+2009,Zone 4 - Central,F,60 to 69,22536,2827,12.54
+2009,Zone 4 - Central,F,70 to 79,12910,1337,10.36
+2009,Zone 4 - Central,F,80 +,10480,858,8.19
+2009,Zone 4 - Central,M,0 to 9,20164,2734,13.56
+2009,Zone 4 - Central,M,10 to 19,28034,6927,24.71
+2009,Zone 4 - Central,M,20 to 29,31232,4566,14.62
+2009,Zone 4 - Central,M,30 to 39,30101,2074,6.89
+2009,Zone 4 - Central,M,40 to 49,34182,2120,6.2
+2009,Zone 4 - Central,M,50 to 59,30437,1919,6.3
+2009,Zone 4 - Central,M,60 to 69,21039,1269,6.03
+2009,Zone 4 - Central,M,70 to 79,11066,689,6.23
+2009,Zone 4 - Central,M,80 +,5653,347,6.14
+2009,Zone 3 - Eastern,F,0 to 9,7115,597,8.39
+2009,Zone 3 - Eastern,F,10 to 19,9486,1775,18.71
+2009,Zone 3 - Eastern,F,20 to 29,9792,1234,12.6
+2009,Zone 3 - Eastern,F,30 to 39,10040,930,9.26
+2009,Zone 3 - Eastern,F,40 to 49,13300,1113,8.37
+2009,Zone 3 - Eastern,F,50 to 59,14980,1271,8.48
+2009,Zone 3 - Eastern,F,60 to 69,11528,1030,8.93
+2009,Zone 3 - Eastern,F,70 to 79,7183,557,7.75
+2009,Zone 3 - Eastern,F,80 +,6018,386,6.41
+2009,Zone 3 - Eastern,M,0 to 9,7614,943,12.39
+2009,Zone 3 - Eastern,M,10 to 19,9989,2431,24.34
+2009,Zone 3 - Eastern,M,20 to 29,10058,1319,13.11
+2009,Zone 3 - Eastern,M,30 to 39,10027,599,5.97
+2009,Zone 3 - Eastern,M,40 to 49,12891,584,4.53
+2009,Zone 3 - Eastern,M,50 to 59,14713,682,4.64
+2009,Zone 3 - Eastern,M,60 to 69,11654,575,4.93
+2009,Zone 3 - Eastern,M,70 to 79,6278,329,5.24
+2009,Zone 3 - Eastern,M,80 +,3172,161,5.08
+2009,Zone 2 - Northern,F,0 to 9,7056,647,9.17
+2009,Zone 2 - Northern,F,10 to 19,8762,1625,18.55
+2009,Zone 2 - Northern,F,20 to 29,8992,1246,13.86
+2009,Zone 2 - Northern,F,30 to 39,10190,1183,11.61
+2009,Zone 2 - Northern,F,40 to 49,12468,1263,10.13
+2009,Zone 2 - Northern,F,50 to 59,12713,1285,10.11
+2009,Zone 2 - Northern,F,60 to 69,9631,955,9.92
+2009,Zone 2 - Northern,F,70 to 79,5995,522,8.71
+2009,Zone 2 - Northern,F,80 +,5113,336,6.57
+2009,Zone 2 - Northern,M,0 to 9,7326,956,13.05
+2009,Zone 2 - Northern,M,10 to 19,9445,2246,23.78
+2009,Zone 2 - Northern,M,20 to 29,9066,1181,13.03
+2009,Zone 2 - Northern,M,30 to 39,9818,623,6.35
+2009,Zone 2 - Northern,M,40 to 49,12248,627,5.12
+2009,Zone 2 - Northern,M,50 to 59,12565,626,4.98
+2009,Zone 2 - Northern,M,60 to 69,9685,442,4.56
+2009,Zone 2 - Northern,M,70 to 79,5178,245,4.73
+2009,Zone 2 - Northern,M,80 +,2817,166,5.89
+2009,Zone 1 - Western,F,0 to 9,8086,812,10.04
+2009,Zone 1 - Western,F,10 to 19,10787,2053,19.03
+2009,Zone 1 - Western,F,20 to 29,11109,1577,14.2
+2009,Zone 1 - Western,F,30 to 39,12230,1403,11.47
+2009,Zone 1 - Western,F,40 to 49,16664,1728,10.37
+2009,Zone 1 - Western,F,50 to 59,17549,1760,10.03
+2009,Zone 1 - Western,F,60 to 69,14014,1429,10.2
+2009,Zone 1 - Western,F,70 to 79,8444,755,8.94
+2009,Zone 1 - Western,F,80 +,6969,488,7
+2009,Zone 1 - Western,M,0 to 9,8530,1200,14.07
+2009,Zone 1 - Western,M,10 to 19,11421,2633,23.05
+2009,Zone 1 - Western,M,20 to 29,10959,1444,13.18
+2009,Zone 1 - Western,M,30 to 39,11604,720,6.2
+2009,Zone 1 - Western,M,40 to 49,15902,954,6
+2009,Zone 1 - Western,M,50 to 59,16934,910,5.37
+2009,Zone 1 - Western,M,60 to 69,13771,779,5.66
+2009,Zone 1 - Western,M,70 to 79,7671,436,5.68
+2009,Zone 1 - Western,M,80 +,4232,265,6.26
+2010,Zone 4 - Central,F,0 to 9,19277,1664,8.63
+2010,Zone 4 - Central,F,10 to 19,26785,5162,19.27
+2010,Zone 4 - Central,F,20 to 29,32908,5073,15.42
+2010,Zone 4 - Central,F,30 to 39,32843,3970,12.09
+2010,Zone 4 - Central,F,40 to 49,36070,4220,11.7
+2010,Zone 4 - Central,F,50 to 59,33258,4012,12.06
+2010,Zone 4 - Central,F,60 to 69,23683,3024,12.77
+2010,Zone 4 - Central,F,70 to 79,13166,1396,10.6
+2010,Zone 4 - Central,F,80 +,10741,916,8.53
+2010,Zone 4 - Central,M,0 to 9,20462,2546,12.44
+2010,Zone 4 - Central,M,10 to 19,27174,6755,24.86
+2010,Zone 4 - Central,M,20 to 29,32287,5047,15.63
+2010,Zone 4 - Central,M,30 to 39,30263,2209,7.3
+2010,Zone 4 - Central,M,40 to 49,34117,2158,6.33
+2010,Zone 4 - Central,M,50 to 59,31319,2013,6.43
+2010,Zone 4 - Central,M,60 to 69,22113,1381,6.25
+2010,Zone 4 - Central,M,70 to 79,11339,731,6.45
+2010,Zone 4 - Central,M,80 +,5862,359,6.12
+2010,Zone 3 - Eastern,F,0 to 9,7078,541,7.64
+2010,Zone 3 - Eastern,F,10 to 19,9297,1731,18.62
+2010,Zone 3 - Eastern,F,20 to 29,9789,1337,13.66
+2010,Zone 3 - Eastern,F,30 to 39,9989,979,9.8
+2010,Zone 3 - Eastern,F,40 to 49,12794,1100,8.6
+2010,Zone 3 - Eastern,F,50 to 59,15172,1320,8.7
+2010,Zone 3 - Eastern,F,60 to 69,11998,1109,9.24
+2010,Zone 3 - Eastern,F,70 to 79,7363,596,8.09
+2010,Zone 3 - Eastern,F,80 +,5958,394,6.61
+2010,Zone 3 - Eastern,M,0 to 9,7607,847,11.13
+2010,Zone 3 - Eastern,M,10 to 19,9710,2424,24.96
+2010,Zone 3 - Eastern,M,20 to 29,10261,1492,14.54
+2010,Zone 3 - Eastern,M,30 to 39,9841,622,6.32
+2010,Zone 3 - Eastern,M,40 to 49,12537,600,4.79
+2010,Zone 3 - Eastern,M,50 to 59,14797,709,4.79
+2010,Zone 3 - Eastern,M,60 to 69,12041,596,4.95
+2010,Zone 3 - Eastern,M,70 to 79,6477,355,5.48
+2010,Zone 3 - Eastern,M,80 +,3246,169,5.21
+2010,Zone 2 - Northern,F,0 to 9,7112,608,8.55
+2010,Zone 2 - Northern,F,10 to 19,8593,1568,18.25
+2010,Zone 2 - Northern,F,20 to 29,9050,1331,14.71
+2010,Zone 2 - Northern,F,30 to 39,9998,1217,12.17
+2010,Zone 2 - Northern,F,40 to 49,12285,1276,10.39
+2010,Zone 2 - Northern,F,50 to 59,12976,1331,10.26
+2010,Zone 2 - Northern,F,60 to 69,10015,1022,10.2
+2010,Zone 2 - Northern,F,70 to 79,6037,551,9.13
+2010,Zone 2 - Northern,F,80 +,5201,349,6.71
+2010,Zone 2 - Northern,M,0 to 9,7299,877,12.02
+2010,Zone 2 - Northern,M,10 to 19,9300,2222,23.89
+2010,Zone 2 - Northern,M,20 to 29,9195,1315,14.3
+2010,Zone 2 - Northern,M,30 to 39,9661,646,6.69
+2010,Zone 2 - Northern,M,40 to 49,12094,627,5.18
+2010,Zone 2 - Northern,M,50 to 59,12737,661,5.19
+2010,Zone 2 - Northern,M,60 to 69,10024,485,4.84
+2010,Zone 2 - Northern,M,70 to 79,5364,246,4.59
+2010,Zone 2 - Northern,M,80 +,2913,181,6.21
+2010,Zone 1 - Western,F,0 to 9,8068,762,9.44
+2010,Zone 1 - Western,F,10 to 19,10556,1990,18.85
+2010,Zone 1 - Western,F,20 to 29,11228,1679,14.95
+2010,Zone 1 - Western,F,30 to 39,12007,1421,11.83
+2010,Zone 1 - Western,F,40 to 49,16204,1729,10.67
+2010,Zone 1 - Western,F,50 to 59,17942,1852,10.32
+2010,Zone 1 - Western,F,60 to 69,14642,1534,10.48
+2010,Zone 1 - Western,F,70 to 79,8640,773,8.95
+2010,Zone 1 - Western,F,80 +,7096,525,7.4
+2010,Zone 1 - Western,M,0 to 9,8434,1099,13.03
+2010,Zone 1 - Western,M,10 to 19,11270,2653,23.54
+2010,Zone 1 - Western,M,20 to 29,11106,1612,14.51
+2010,Zone 1 - Western,M,30 to 39,11334,738,6.51
+2010,Zone 1 - Western,M,40 to 49,15557,934,6
+2010,Zone 1 - Western,M,50 to 59,17292,972,5.62
+2010,Zone 1 - Western,M,60 to 69,14251,814,5.71
+2010,Zone 1 - Western,M,70 to 79,7977,472,5.92
+2010,Zone 1 - Western,M,80 +,4316,263,6.09
+2011,Zone 4 - Central,F,0 to 9,19463,1564,8.04
+2011,Zone 4 - Central,F,10 to 19,25982,4939,19.01
+2011,Zone 4 - Central,F,20 to 29,33273,5275,15.85
+2011,Zone 4 - Central,F,30 to 39,32938,4088,12.41
+2011,Zone 4 - Central,F,40 to 49,35932,4276,11.9
+2011,Zone 4 - Central,F,50 to 59,34194,4208,12.31
+2011,Zone 4 - Central,F,60 to 69,24685,3168,12.83
+2011,Zone 4 - Central,F,70 to 79,13499,1504,11.14
+2011,Zone 4 - Central,F,80 +,10972,955,8.7
+2011,Zone 4 - Central,M,0 to 9,20629,2330,11.29
+2011,Zone 4 - Central,M,10 to 19,26430,6550,24.78
+2011,Zone 4 - Central,M,20 to 29,32860,5469,16.64
+2011,Zone 4 - Central,M,30 to 39,30359,2374,7.82
+2011,Zone 4 - Central,M,40 to 49,33821,2170,6.42
+2011,Zone 4 - Central,M,50 to 59,32441,2122,6.54
+2011,Zone 4 - Central,M,60 to 69,22910,1495,6.53
+2011,Zone 4 - Central,M,70 to 79,11707,768,6.56
+2011,Zone 4 - Central,M,80 +,6128,400,6.53
+2011,Zone 3 - Eastern,F,0 to 9,7018,497,7.08
+2011,Zone 3 - Eastern,F,10 to 19,9109,1685,18.5
+2011,Zone 3 - Eastern,F,20 to 29,9749,1430,14.67
+2011,Zone 3 - Eastern,F,30 to 39,9823,1009,10.27
+2011,Zone 3 - Eastern,F,40 to 49,12498,1107,8.86
+2011,Zone 3 - Eastern,F,50 to 59,15246,1339,8.78
+2011,Zone 3 - Eastern,F,60 to 69,12375,1179,9.53
+2011,Zone 3 - Eastern,F,70 to 79,7502,627,8.36
+2011,Zone 3 - Eastern,F,80 +,6025,409,6.79
+2011,Zone 3 - Eastern,M,0 to 9,7538,805,10.68
+2011,Zone 3 - Eastern,M,10 to 19,9470,2371,25.04
+2011,Zone 3 - Eastern,M,20 to 29,10267,1630,15.88
+2011,Zone 3 - Eastern,M,30 to 39,9681,645,6.66
+2011,Zone 3 - Eastern,M,40 to 49,12193,617,5.06
+2011,Zone 3 - Eastern,M,50 to 59,14869,727,4.89
+2011,Zone 3 - Eastern,M,60 to 69,12368,637,5.15
+2011,Zone 3 - Eastern,M,70 to 79,6718,369,5.49
+2011,Zone 3 - Eastern,M,80 +,3299,184,5.58
+2011,Zone 2 - Northern,F,0 to 9,7082,567,8.01
+2011,Zone 2 - Northern,F,10 to 19,8519,1517,17.81
+2011,Zone 2 - Northern,F,20 to 29,9038,1402,15.51
+2011,Zone 2 - Northern,F,30 to 39,9826,1233,12.55
+2011,Zone 2 - Northern,F,40 to 49,12067,1292,10.71
+2011,Zone 2 - Northern,F,50 to 59,13262,1371,10.34
+2011,Zone 2 - Northern,F,60 to 69,10346,1068,10.32
+2011,Zone 2 - Northern,F,70 to 79,6181,583,9.43
+2011,Zone 2 - Northern,F,80 +,5176,365,7.05
+2011,Zone 2 - Northern,M,0 to 9,7207,784,10.88
+2011,Zone 2 - Northern,M,10 to 19,9165,2170,23.68
+2011,Zone 2 - Northern,M,20 to 29,9295,1474,15.86
+2011,Zone 2 - Northern,M,30 to 39,9439,658,6.97
+2011,Zone 2 - Northern,M,40 to 49,11913,638,5.36
+2011,Zone 2 - Northern,M,50 to 59,12900,685,5.31
+2011,Zone 2 - Northern,M,60 to 69,10385,525,5.06
+2011,Zone 2 - Northern,M,70 to 79,5554,255,4.59
+2011,Zone 2 - Northern,M,80 +,2967,190,6.4
+2011,Zone 1 - Western,F,0 to 9,7993,698,8.73
+2011,Zone 1 - Western,F,10 to 19,10450,1950,18.66
+2011,Zone 1 - Western,F,20 to 29,11231,1778,15.83
+2011,Zone 1 - Western,F,30 to 39,11801,1432,12.13
+2011,Zone 1 - Western,F,40 to 49,15738,1699,10.8
+2011,Zone 1 - Western,F,50 to 59,18286,1930,10.55
+2011,Zone 1 - Western,F,60 to 69,15117,1635,10.82
+2011,Zone 1 - Western,F,70 to 79,8824,787,8.92
+2011,Zone 1 - Western,F,80 +,7237,548,7.57
+2011,Zone 1 - Western,M,0 to 9,8378,1020,12.17
+2011,Zone 1 - Western,M,10 to 19,11098,2603,23.45
+2011,Zone 1 - Western,M,20 to 29,11166,1781,15.95
+2011,Zone 1 - Western,M,30 to 39,11195,761,6.8
+2011,Zone 1 - Western,M,40 to 49,15049,924,6.14
+2011,Zone 1 - Western,M,50 to 59,17612,1011,5.74
+2011,Zone 1 - Western,M,60 to 69,14701,864,5.88
+2011,Zone 1 - Western,M,70 to 79,8265,503,6.09
+2011,Zone 1 - Western,M,80 +,4434,269,6.07
+2012,Zone 4 - Central,F,0 to 9,19632,1442,7.35
+2012,Zone 4 - Central,F,10 to 19,25144,4640,18.45
+2012,Zone 4 - Central,F,20 to 29,33241,5473,16.46
+2012,Zone 4 - Central,F,30 to 39,33215,4190,12.61
+2012,Zone 4 - Central,F,40 to 49,35415,4266,12.05
+2012,Zone 4 - Central,F,50 to 59,35176,4425,12.58
+2012,Zone 4 - Central,F,60 to 69,25594,3303,12.91
+2012,Zone 4 - Central,F,70 to 79,13974,1654,11.84
+2012,Zone 4 - Central,F,80 +,11156,980,8.78
+2012,Zone 4 - Central,M,0 to 9,20694,2150,10.39
+2012,Zone 4 - Central,M,10 to 19,25680,6297,24.52
+2012,Zone 4 - Central,M,20 to 29,33030,5843,17.69
+2012,Zone 4 - Central,M,30 to 39,30522,2470,8.09
+2012,Zone 4 - Central,M,40 to 49,33326,2199,6.6
+2012,Zone 4 - Central,M,50 to 59,33544,2237,6.67
+2012,Zone 4 - Central,M,60 to 69,23801,1581,6.64
+2012,Zone 4 - Central,M,70 to 79,12177,831,6.82
+2012,Zone 4 - Central,M,80 +,6364,410,6.44
+2012,Zone 3 - Eastern,F,0 to 9,6962,454,6.52
+2012,Zone 3 - Eastern,F,10 to 19,8867,1647,18.57
+2012,Zone 3 - Eastern,F,20 to 29,9678,1504,15.54
+2012,Zone 3 - Eastern,F,30 to 39,9704,1033,10.65
+2012,Zone 3 - Eastern,F,40 to 49,12011,1111,9.25
+2012,Zone 3 - Eastern,F,50 to 59,15297,1336,8.73
+2012,Zone 3 - Eastern,F,60 to 69,12783,1246,9.75
+2012,Zone 3 - Eastern,F,70 to 79,7701,674,8.75
+2012,Zone 3 - Eastern,F,80 +,6048,418,6.91
+2012,Zone 3 - Eastern,M,0 to 9,7465,741,9.93
+2012,Zone 3 - Eastern,M,10 to 19,9260,2301,24.85
+2012,Zone 3 - Eastern,M,20 to 29,10105,1752,17.34
+2012,Zone 3 - Eastern,M,30 to 39,9645,692,7.17
+2012,Zone 3 - Eastern,M,40 to 49,11802,602,5.1
+2012,Zone 3 - Eastern,M,50 to 59,14775,759,5.14
+2012,Zone 3 - Eastern,M,60 to 69,12723,659,5.18
+2012,Zone 3 - Eastern,M,70 to 79,6981,388,5.56
+2012,Zone 3 - Eastern,M,80 +,3437,192,5.59
+2012,Zone 2 - Northern,F,0 to 9,7049,506,7.18
+2012,Zone 2 - Northern,F,10 to 19,8372,1477,17.64
+2012,Zone 2 - Northern,F,20 to 29,9019,1468,16.28
+2012,Zone 2 - Northern,F,30 to 39,9745,1236,12.68
+2012,Zone 2 - Northern,F,40 to 49,11817,1307,11.06
+2012,Zone 2 - Northern,F,50 to 59,13405,1397,10.42
+2012,Zone 2 - Northern,F,60 to 69,10708,1122,10.48
+2012,Zone 2 - Northern,F,70 to 79,6366,622,9.77
+2012,Zone 2 - Northern,F,80 +,5180,382,7.37
+2012,Zone 2 - Northern,M,0 to 9,7268,694,9.55
+2012,Zone 2 - Northern,M,10 to 19,8976,2132,23.75
+2012,Zone 2 - Northern,M,20 to 29,9305,1578,16.96
+2012,Zone 2 - Northern,M,30 to 39,9246,693,7.5
+2012,Zone 2 - Northern,M,40 to 49,11707,626,5.35
+2012,Zone 2 - Northern,M,50 to 59,12980,725,5.59
+2012,Zone 2 - Northern,M,60 to 69,10638,535,5.03
+2012,Zone 2 - Northern,M,70 to 79,5826,287,4.93
+2012,Zone 2 - Northern,M,80 +,3008,185,6.15
+2012,Zone 1 - Western,F,0 to 9,7999,616,7.7
+2012,Zone 1 - Western,F,10 to 19,10268,1879,18.3
+2012,Zone 1 - Western,F,20 to 29,11204,1847,16.49
+2012,Zone 1 - Western,F,30 to 39,11639,1459,12.54
+2012,Zone 1 - Western,F,40 to 49,15257,1699,11.14
+2012,Zone 1 - Western,F,50 to 59,18554,1951,10.52
+2012,Zone 1 - Western,F,60 to 69,15520,1718,11.07
+2012,Zone 1 - Western,F,70 to 79,9201,858,9.33
+2012,Zone 1 - Western,F,80 +,7317,567,7.75
+2012,Zone 1 - Western,M,0 to 9,8406,883,10.5
+2012,Zone 1 - Western,M,10 to 19,10875,2566,23.6
+2012,Zone 1 - Western,M,20 to 29,11153,1948,17.47
+2012,Zone 1 - Western,M,30 to 39,10981,780,7.1
+2012,Zone 1 - Western,M,40 to 49,14639,931,6.36
+2012,Zone 1 - Western,M,50 to 59,17830,1042,5.84
+2012,Zone 1 - Western,M,60 to 69,15098,898,5.95
+2012,Zone 1 - Western,M,70 to 79,8573,532,6.21
+2012,Zone 1 - Western,M,80 +,4555,285,6.26
+2013,Zone 4 - Central,F,0 to 9,19571,1284,6.56
+2013,Zone 4 - Central,F,10 to 19,24518,4421,18.03
+2013,Zone 4 - Central,F,20 to 29,33603,5624,16.74
+2013,Zone 4 - Central,F,30 to 39,33173,4264,12.85
+2013,Zone 4 - Central,F,40 to 49,35063,4245,12.11
+2013,Zone 4 - Central,F,50 to 59,35884,4612,12.85
+2013,Zone 4 - Central,F,60 to 69,26593,3485,13.1
+2013,Zone 4 - Central,F,70 to 79,14551,1751,12.03
+2013,Zone 4 - Central,F,80 +,11354,1032,9.09
+2013,Zone 4 - Central,M,0 to 9,20735,1908,9.2
+2013,Zone 4 - Central,M,10 to 19,25067,6010,23.98
+2013,Zone 4 - Central,M,20 to 29,33123,6177,18.65
+2013,Zone 4 - Central,M,30 to 39,31004,2651,8.55
+2013,Zone 4 - Central,M,40 to 49,32858,2215,6.74
+2013,Zone 4 - Central,M,50 to 59,34653,2349,6.78
+2013,Zone 4 - Central,M,60 to 69,24706,1624,6.57
+2013,Zone 4 - Central,M,70 to 79,12766,910,7.13
+2013,Zone 4 - Central,M,80 +,6569,424,6.45
+2013,Zone 3 - Eastern,F,0 to 9,6974,433,6.21
+2013,Zone 3 - Eastern,F,10 to 19,8625,1560,18.09
+2013,Zone 3 - Eastern,F,20 to 29,9503,1584,16.67
+2013,Zone 3 - Eastern,F,30 to 39,9627,1043,10.83
+2013,Zone 3 - Eastern,F,40 to 49,11684,1113,9.53
+2013,Zone 3 - Eastern,F,50 to 59,15158,1344,8.87
+2013,Zone 3 - Eastern,F,60 to 69,13146,1293,9.84
+2013,Zone 3 - Eastern,F,70 to 79,7984,751,9.41
+2013,Zone 3 - Eastern,F,80 +,6090,418,6.86
+2013,Zone 3 - Eastern,M,0 to 9,7317,679,9.28
+2013,Zone 3 - Eastern,M,10 to 19,9149,2228,24.35
+2013,Zone 3 - Eastern,M,20 to 29,9933,1855,18.68
+2013,Zone 3 - Eastern,M,30 to 39,9649,733,7.6
+2013,Zone 3 - Eastern,M,40 to 49,11475,616,5.37
+2013,Zone 3 - Eastern,M,50 to 59,14633,770,5.26
+2013,Zone 3 - Eastern,M,60 to 69,13079,678,5.18
+2013,Zone 3 - Eastern,M,70 to 79,7272,434,5.97
+2013,Zone 3 - Eastern,M,80 +,3523,205,5.82
+2013,Zone 2 - Northern,F,0 to 9,6912,443,6.41
+2013,Zone 2 - Northern,F,10 to 19,8246,1421,17.23
+2013,Zone 2 - Northern,F,20 to 29,8937,1505,16.84
+2013,Zone 2 - Northern,F,30 to 39,9546,1239,12.98
+2013,Zone 2 - Northern,F,40 to 49,11643,1317,11.31
+2013,Zone 2 - Northern,F,50 to 59,13455,1399,10.4
+2013,Zone 2 - Northern,F,60 to 69,11106,1189,10.71
+2013,Zone 2 - Northern,F,70 to 79,6550,638,9.74
+2013,Zone 2 - Northern,F,80 +,5200,386,7.42
+2013,Zone 2 - Northern,M,0 to 9,7230,632,8.74
+2013,Zone 2 - Northern,M,10 to 19,8785,2049,23.32
+2013,Zone 2 - Northern,M,20 to 29,9193,1683,18.31
+2013,Zone 2 - Northern,M,30 to 39,9203,713,7.75
+2013,Zone 2 - Northern,M,40 to 49,11459,643,5.61
+2013,Zone 2 - Northern,M,50 to 59,13107,748,5.71
+2013,Zone 2 - Northern,M,60 to 69,10970,553,5.04
+2013,Zone 2 - Northern,M,70 to 79,6085,301,4.95
+2013,Zone 2 - Northern,M,80 +,3097,186,6.01
+2013,Zone 1 - Western,F,0 to 9,7935,546,6.88
+2013,Zone 1 - Western,F,10 to 19,10031,1839,18.33
+2013,Zone 1 - Western,F,20 to 29,11090,1901,17.14
+2013,Zone 1 - Western,F,30 to 39,11581,1491,12.87
+2013,Zone 1 - Western,F,40 to 49,14639,1652,11.28
+2013,Zone 1 - Western,F,50 to 59,18834,1991,10.57
+2013,Zone 1 - Western,F,60 to 69,15950,1801,11.29
+2013,Zone 1 - Western,F,70 to 79,9577,898,9.38
+2013,Zone 1 - Western,F,80 +,7398,586,7.92
+2013,Zone 1 - Western,M,0 to 9,8295,753,9.08
+2013,Zone 1 - Western,M,10 to 19,10683,2506,23.46
+2013,Zone 1 - Western,M,20 to 29,11065,2068,18.69
+2013,Zone 1 - Western,M,30 to 39,10870,837,7.7
+2013,Zone 1 - Western,M,40 to 49,14142,913,6.46
+2013,Zone 1 - Western,M,50 to 59,18082,1080,5.97
+2013,Zone 1 - Western,M,60 to 69,15541,931,5.99
+2013,Zone 1 - Western,M,70 to 79,8917,555,6.22
+2013,Zone 1 - Western,M,80 +,4636,293,6.32
+2014,Zone 4 - Central,F,0 to 9,19588,1150,5.87
+2014,Zone 4 - Central,F,10 to 19,23957,4169,17.4
+2014,Zone 4 - Central,F,20 to 29,33533,5762,17.18
+2014,Zone 4 - Central,F,30 to 39,33339,4322,12.96
+2014,Zone 4 - Central,F,40 to 49,34499,4274,12.39
+2014,Zone 4 - Central,F,50 to 59,36606,4727,12.91
+2014,Zone 4 - Central,F,60 to 69,27582,3605,13.07
+2014,Zone 4 - Central,F,70 to 79,15228,1919,12.6
+2014,Zone 4 - Central,F,80 +,11482,1062,9.25
+2014,Zone 4 - Central,M,0 to 9,20756,1713,8.25
+2014,Zone 4 - Central,M,10 to 19,24544,5700,23.22
+2014,Zone 4 - Central,M,20 to 29,33122,6435,19.43
+2014,Zone 4 - Central,M,30 to 39,31294,2867,9.16
+2014,Zone 4 - Central,M,40 to 49,32362,2234,6.9
+2014,Zone 4 - Central,M,50 to 59,35312,2409,6.82
+2014,Zone 4 - Central,M,60 to 69,25578,1697,6.63
+2014,Zone 4 - Central,M,70 to 79,13425,977,7.28
+2014,Zone 4 - Central,M,80 +,6810,451,6.62
+2014,Zone 3 - Eastern,F,0 to 9,6897,393,5.7
+2014,Zone 3 - Eastern,F,10 to 19,8509,1462,17.18
+2014,Zone 3 - Eastern,F,20 to 29,9359,1659,17.73
+2014,Zone 3 - Eastern,F,30 to 39,9486,1055,11.12
+2014,Zone 3 - Eastern,F,40 to 49,11297,1117,9.89
+2014,Zone 3 - Eastern,F,50 to 59,15101,1358,8.99
+2014,Zone 3 - Eastern,F,60 to 69,13582,1341,9.87
+2014,Zone 3 - Eastern,F,70 to 79,8249,801,9.71
+2014,Zone 3 - Eastern,F,80 +,6120,427,6.98
+2014,Zone 3 - Eastern,M,0 to 9,7219,652,9.03
+2014,Zone 3 - Eastern,M,10 to 19,9021,2098,23.26
+2014,Zone 3 - Eastern,M,20 to 29,9789,1966,20.08
+2014,Zone 3 - Eastern,M,30 to 39,9471,795,8.39
+2014,Zone 3 - Eastern,M,40 to 49,11208,646,5.76
+2014,Zone 3 - Eastern,M,50 to 59,14415,770,5.34
+2014,Zone 3 - Eastern,M,60 to 69,13541,700,5.17
+2014,Zone 3 - Eastern,M,70 to 79,7471,457,6.12
+2014,Zone 3 - Eastern,M,80 +,3599,221,6.14
+2014,Zone 2 - Northern,F,0 to 9,6864,396,5.77
+2014,Zone 2 - Northern,F,10 to 19,8126,1340,16.49
+2014,Zone 2 - Northern,F,20 to 29,8885,1575,17.73
+2014,Zone 2 - Northern,F,30 to 39,9360,1225,13.09
+2014,Zone 2 - Northern,F,40 to 49,11366,1338,11.77
+2014,Zone 2 - Northern,F,50 to 59,13409,1421,10.6
+2014,Zone 2 - Northern,F,60 to 69,11612,1245,10.72
+2014,Zone 2 - Northern,F,70 to 79,6696,667,9.96
+2014,Zone 2 - Northern,F,80 +,5220,401,7.68
+2014,Zone 2 - Northern,M,0 to 9,7181,575,8.01
+2014,Zone 2 - Northern,M,10 to 19,8614,1940,22.52
+2014,Zone 2 - Northern,M,20 to 29,9049,1765,19.5
+2014,Zone 2 - Northern,M,30 to 39,9137,743,8.13
+2014,Zone 2 - Northern,M,40 to 49,11015,651,5.91
+2014,Zone 2 - Northern,M,50 to 59,13250,770,5.81
+2014,Zone 2 - Northern,M,60 to 69,11311,583,5.15
+2014,Zone 2 - Northern,M,70 to 79,6330,317,5.01
+2014,Zone 2 - Northern,M,80 +,3172,179,5.64
+2014,Zone 1 - Western,F,0 to 9,7885,481,6.1
+2014,Zone 1 - Western,F,10 to 19,9811,1763,17.97
+2014,Zone 1 - Western,F,20 to 29,10916,1952,17.88
+2014,Zone 1 - Western,F,30 to 39,11466,1490,12.99
+2014,Zone 1 - Western,F,40 to 49,14080,1615,11.47
+2014,Zone 1 - Western,F,50 to 59,18844,2071,10.99
+2014,Zone 1 - Western,F,60 to 69,16543,1868,11.29
+2014,Zone 1 - Western,F,70 to 79,9846,977,9.92
+2014,Zone 1 - Western,F,80 +,7519,603,8.02
+2014,Zone 1 - Western,M,0 to 9,8251,667,8.08
+2014,Zone 1 - Western,M,10 to 19,10402,2405,23.12
+2014,Zone 1 - Western,M,20 to 29,10944,2197,20.07
+2014,Zone 1 - Western,M,30 to 39,10778,898,8.33
+2014,Zone 1 - Western,M,40 to 49,13609,902,6.63
+2014,Zone 1 - Western,M,50 to 59,18093,1082,5.98
+2014,Zone 1 - Western,M,60 to 69,16009,980,6.12
+2014,Zone 1 - Western,M,70 to 79,9241,585,6.33
+2014,Zone 1 - Western,M,80 +,4805,303,6.31
+2015,Zone 4 - Central,F,0 to 9,19925,1039,5.21
+2015,Zone 4 - Central,F,10 to 19,23370,3904,16.71
+2015,Zone 4 - Central,F,20 to 29,33575,5837,17.38
+2015,Zone 4 - Central,F,30 to 39,33677,4379,13
+2015,Zone 4 - Central,F,40 to 49,34434,4318,12.54
+2015,Zone 4 - Central,F,50 to 59,36721,4796,13.06
+2015,Zone 4 - Central,F,60 to 69,28721,3836,13.36
+2015,Zone 4 - Central,F,70 to 79,15939,2031,12.74
+2015,Zone 4 - Central,F,80 +,11480,1067,9.29
+2015,Zone 4 - Central,M,0 to 9,21029,1578,7.5
+2015,Zone 4 - Central,M,10 to 19,24230,5359,22.12
+2015,Zone 4 - Central,M,20 to 29,33078,6612,19.99
+2015,Zone 4 - Central,M,30 to 39,31811,3125,9.82
+2015,Zone 4 - Central,M,40 to 49,32196,2268,7.04
+2015,Zone 4 - Central,M,50 to 59,35747,2500,6.99
+2015,Zone 4 - Central,M,60 to 69,26517,1773,6.69
+2015,Zone 4 - Central,M,70 to 79,14081,1010,7.17
+2015,Zone 4 - Central,M,80 +,7021,475,6.77
+2015,Zone 3 - Eastern,F,0 to 9,6761,388,5.74
+2015,Zone 3 - Eastern,F,10 to 19,8406,1355,16.12
+2015,Zone 3 - Eastern,F,20 to 29,9207,1734,18.83
+2015,Zone 3 - Eastern,F,30 to 39,9408,1053,11.19
+2015,Zone 3 - Eastern,F,40 to 49,11002,1108,10.07
+2015,Zone 3 - Eastern,F,50 to 59,14912,1390,9.32
+2015,Zone 3 - Eastern,F,60 to 69,13987,1415,10.12
+2015,Zone 3 - Eastern,F,70 to 79,8490,831,9.79
+2015,Zone 3 - Eastern,F,80 +,6105,437,7.16
+2015,Zone 3 - Eastern,M,0 to 9,7141,595,8.33
+2015,Zone 3 - Eastern,M,10 to 19,8884,1945,21.89
+2015,Zone 3 - Eastern,M,20 to 29,9683,2101,21.7
+2015,Zone 3 - Eastern,M,30 to 39,9440,865,9.16
+2015,Zone 3 - Eastern,M,40 to 49,11043,677,6.13
+2015,Zone 3 - Eastern,M,50 to 59,14157,767,5.42
+2015,Zone 3 - Eastern,M,60 to 69,13836,751,5.43
+2015,Zone 3 - Eastern,M,70 to 79,7696,454,5.9
+2015,Zone 3 - Eastern,M,80 +,3692,233,6.31
+2015,Zone 2 - Northern,F,0 to 9,6757,354,5.24
+2015,Zone 2 - Northern,F,10 to 19,8027,1273,15.86
+2015,Zone 2 - Northern,F,20 to 29,8848,1634,18.47
+2015,Zone 2 - Northern,F,30 to 39,9291,1256,13.52
+2015,Zone 2 - Northern,F,40 to 49,11058,1304,11.79
+2015,Zone 2 - Northern,F,50 to 59,13380,1433,10.71
+2015,Zone 2 - Northern,F,60 to 69,11899,1291,10.85
+2015,Zone 2 - Northern,F,70 to 79,6934,720,10.38
+2015,Zone 2 - Northern,F,80 +,5173,396,7.66
+2015,Zone 2 - Northern,M,0 to 9,7116,527,7.41
+2015,Zone 2 - Northern,M,10 to 19,8519,1812,21.27
+2015,Zone 2 - Northern,M,20 to 29,8940,1863,20.84
+2015,Zone 2 - Northern,M,30 to 39,9119,819,8.98
+2015,Zone 2 - Northern,M,40 to 49,10797,661,6.12
+2015,Zone 2 - Northern,M,50 to 59,13102,763,5.82
+2015,Zone 2 - Northern,M,60 to 69,11632,619,5.32
+2015,Zone 2 - Northern,M,70 to 79,6597,340,5.15
+2015,Zone 2 - Northern,M,80 +,3247,177,5.45
+2015,Zone 1 - Western,F,0 to 9,7885,444,5.63
+2015,Zone 1 - Western,F,10 to 19,9685,1665,17.19
+2015,Zone 1 - Western,F,20 to 29,10839,2030,18.73
+2015,Zone 1 - Western,F,30 to 39,11450,1495,13.06
+2015,Zone 1 - Western,F,40 to 49,13701,1612,11.77
+2015,Zone 1 - Western,F,50 to 59,18749,2096,11.18
+2015,Zone 1 - Western,F,60 to 69,16995,1945,11.44
+2015,Zone 1 - Western,F,70 to 79,10275,1047,10.19
+2015,Zone 1 - Western,F,80 +,7589,613,8.08
+2015,Zone 1 - Western,M,0 to 9,8218,616,7.5
+2015,Zone 1 - Western,M,10 to 19,10293,2263,21.99
+2015,Zone 1 - Western,M,20 to 29,10935,2333,21.34
+2015,Zone 1 - Western,M,30 to 39,10766,968,8.99
+2015,Zone 1 - Western,M,40 to 49,13233,921,6.96
+2015,Zone 1 - Western,M,50 to 59,18039,1107,6.14
+2015,Zone 1 - Western,M,60 to 69,16419,999,6.08
+2015,Zone 1 - Western,M,70 to 79,9622,606,6.3
+2015,Zone 1 - Western,M,80 +,4968,313,6.3
+2016,Zone 4 - Central,F,0 to 9,20236,999,4.94
+2016,Zone 4 - Central,F,10 to 19,22968,3627,15.79
+2016,Zone 4 - Central,F,20 to 29,33716,5848,17.34
+2016,Zone 4 - Central,F,30 to 39,34474,4528,13.13
+2016,Zone 4 - Central,F,40 to 49,34243,4337,12.67
+2016,Zone 4 - Central,F,50 to 59,36870,4887,13.25
+2016,Zone 4 - Central,F,60 to 69,29327,3923,13.38
+2016,Zone 4 - Central,F,70 to 79,17159,2258,13.16
+2016,Zone 4 - Central,F,80 +,11606,1099,9.47
+2016,Zone 4 - Central,M,0 to 9,21323,1525,7.15
+2016,Zone 4 - Central,M,10 to 19,23924,4999,20.9
+2016,Zone 4 - Central,M,20 to 29,33375,6796,20.36
+2016,Zone 4 - Central,M,30 to 39,32666,3411,10.44
+2016,Zone 4 - Central,M,40 to 49,32284,2349,7.28
+2016,Zone 4 - Central,M,50 to 59,35907,2517,7.01
+2016,Zone 4 - Central,M,60 to 69,27155,1890,6.96
+2016,Zone 4 - Central,M,70 to 79,15090,1079,7.15
+2016,Zone 4 - Central,M,80 +,7298,502,6.88
+2016,Zone 3 - Eastern,F,0 to 9,6725,369,5.49
+2016,Zone 3 - Eastern,F,10 to 19,8300,1278,15.4
+2016,Zone 3 - Eastern,F,20 to 29,9185,1764,19.21
+2016,Zone 3 - Eastern,F,30 to 39,9470,1134,11.97
+2016,Zone 3 - Eastern,F,40 to 49,10720,1087,10.14
+2016,Zone 3 - Eastern,F,50 to 59,14589,1393,9.55
+2016,Zone 3 - Eastern,F,60 to 69,14151,1438,10.16
+2016,Zone 3 - Eastern,F,70 to 79,8909,885,9.93
+2016,Zone 3 - Eastern,F,80 +,6201,460,7.42
+2016,Zone 3 - Eastern,M,0 to 9,7133,543,7.61
+2016,Zone 3 - Eastern,M,10 to 19,8757,1841,21.02
+2016,Zone 3 - Eastern,M,20 to 29,9663,2216,22.93
+2016,Zone 3 - Eastern,M,30 to 39,9522,946,9.93
+2016,Zone 3 - Eastern,M,40 to 49,10748,686,6.38
+2016,Zone 3 - Eastern,M,50 to 59,13921,772,5.55
+2016,Zone 3 - Eastern,M,60 to 69,13924,753,5.41
+2016,Zone 3 - Eastern,M,70 to 79,8168,494,6.05
+2016,Zone 3 - Eastern,M,80 +,3811,237,6.22
+2016,Zone 2 - Northern,F,0 to 9,6748,316,4.68
+2016,Zone 2 - Northern,F,10 to 19,7989,1241,15.53
+2016,Zone 2 - Northern,F,20 to 29,8872,1645,18.54
+2016,Zone 2 - Northern,F,30 to 39,9214,1241,13.47
+2016,Zone 2 - Northern,F,40 to 49,10954,1345,12.28
+2016,Zone 2 - Northern,F,50 to 59,13324,1433,10.76
+2016,Zone 2 - Northern,F,60 to 69,12009,1315,10.95
+2016,Zone 2 - Northern,F,70 to 79,7328,800,10.92
+2016,Zone 2 - Northern,F,80 +,5251,402,7.66
+2016,Zone 2 - Northern,M,0 to 9,6961,494,7.1
+2016,Zone 2 - Northern,M,10 to 19,8414,1700,20.2
+2016,Zone 2 - Northern,M,20 to 29,9143,1972,21.57
+2016,Zone 2 - Northern,M,30 to 39,9029,867,9.6
+2016,Zone 2 - Northern,M,40 to 49,10718,687,6.41
+2016,Zone 2 - Northern,M,50 to 59,12966,743,5.73
+2016,Zone 2 - Northern,M,60 to 69,11772,657,5.58
+2016,Zone 2 - Northern,M,70 to 79,7049,367,5.21
+2016,Zone 2 - Northern,M,80 +,3349,179,5.34
+2016,Zone 1 - Western,F,0 to 9,7905,394,4.98
+2016,Zone 1 - Western,F,10 to 19,9645,1649,17.1
+2016,Zone 1 - Western,F,20 to 29,10837,2065,19.06
+2016,Zone 1 - Western,F,30 to 39,11480,1533,13.35
+2016,Zone 1 - Western,F,40 to 49,13532,1615,11.93
+2016,Zone 1 - Western,F,50 to 59,18521,2124,11.47
+2016,Zone 1 - Western,F,60 to 69,17217,1954,11.35
+2016,Zone 1 - Western,F,70 to 79,10990,1178,10.72
+2016,Zone 1 - Western,F,80 +,7639,628,8.22
+2016,Zone 1 - Western,M,0 to 9,8336,571,6.85
+2016,Zone 1 - Western,M,10 to 19,10169,2143,21.07
+2016,Zone 1 - Western,M,20 to 29,11014,2424,22.01
+2016,Zone 1 - Western,M,30 to 39,10890,1067,9.8
+2016,Zone 1 - Western,M,40 to 49,13029,949,7.28
+2016,Zone 1 - Western,M,50 to 59,17844,1099,6.16
+2016,Zone 1 - Western,M,60 to 69,16606,1022,6.15
+2016,Zone 1 - Western,M,70 to 79,10279,682,6.63
+2016,Zone 1 - Western,M,80 +,5168,316,6.11
+2017,Zone 4 - Central,F,0 to 9,20293,974,4.8
+2017,Zone 4 - Central,F,10 to 19,22923,3402,14.84
+2017,Zone 4 - Central,F,20 to 29,33946,5861,17.27
+2017,Zone 4 - Central,F,30 to 39,35493,4662,13.13
+2017,Zone 4 - Central,F,40 to 49,34399,4440,12.91
+2017,Zone 4 - Central,F,50 to 59,36922,4911,13.3
+2017,Zone 4 - Central,F,60 to 69,29882,4038,13.51
+2017,Zone 4 - Central,F,70 to 79,18463,2424,13.13
+2017,Zone 4 - Central,F,80 +,11782,1174,9.96
+2017,Zone 4 - Central,M,0 to 9,21392,1460,6.82
+2017,Zone 4 - Central,M,10 to 19,23940,4718,19.71
+2017,Zone 4 - Central,M,20 to 29,33594,6834,20.34
+2017,Zone 4 - Central,M,30 to 39,33802,3749,11.09
+2017,Zone 4 - Central,M,40 to 49,32595,2427,7.45
+2017,Zone 4 - Central,M,50 to 59,35700,2542,7.12
+2017,Zone 4 - Central,M,60 to 69,27894,1993,7.14
+2017,Zone 4 - Central,M,70 to 79,16298,1183,7.26
+2017,Zone 4 - Central,M,80 +,7549,508,6.73
+2017,Zone 3 - Eastern,F,0 to 9,6712,327,4.87
+2017,Zone 3 - Eastern,F,10 to 19,8218,1201,14.61
+2017,Zone 3 - Eastern,F,20 to 29,9228,1806,19.57
+2017,Zone 3 - Eastern,F,30 to 39,9470,1189,12.56
+2017,Zone 3 - Eastern,F,40 to 49,10598,1118,10.55
+2017,Zone 3 - Eastern,F,50 to 59,14161,1394,9.84
+2017,Zone 3 - Eastern,F,60 to 69,14359,1452,10.11
+2017,Zone 3 - Eastern,F,70 to 79,9446,965,10.22
+2017,Zone 3 - Eastern,F,80 +,6264,496,7.92
+2017,Zone 3 - Eastern,M,0 to 9,6992,502,7.18
+2017,Zone 3 - Eastern,M,10 to 19,8749,1761,20.13
+2017,Zone 3 - Eastern,M,20 to 29,9658,2277,23.58
+2017,Zone 3 - Eastern,M,30 to 39,9615,1039,10.81
+2017,Zone 3 - Eastern,M,40 to 49,10586,711,6.72
+2017,Zone 3 - Eastern,M,50 to 59,13650,789,5.78
+2017,Zone 3 - Eastern,M,60 to 69,13971,766,5.48
+2017,Zone 3 - Eastern,M,70 to 79,8653,526,6.08
+2017,Zone 3 - Eastern,M,80 +,3962,245,6.18
+2017,Zone 2 - Northern,F,0 to 9,6616,293,4.43
+2017,Zone 2 - Northern,F,10 to 19,8032,1182,14.72
+2017,Zone 2 - Northern,F,20 to 29,8794,1662,18.9
+2017,Zone 2 - Northern,F,30 to 39,9229,1271,13.77
+2017,Zone 2 - Northern,F,40 to 49,10791,1361,12.61
+2017,Zone 2 - Northern,F,50 to 59,13115,1445,11.02
+2017,Zone 2 - Northern,F,60 to 69,12191,1340,10.99
+2017,Zone 2 - Northern,F,70 to 79,7883,868,11.01
+2017,Zone 2 - Northern,F,80 +,5249,412,7.85
+2017,Zone 2 - Northern,M,0 to 9,6832,444,6.5
+2017,Zone 2 - Northern,M,10 to 19,8415,1616,19.2
+2017,Zone 2 - Northern,M,20 to 29,9164,2053,22.4
+2017,Zone 2 - Northern,M,30 to 39,9034,953,10.55
+2017,Zone 2 - Northern,M,40 to 49,10639,712,6.69
+2017,Zone 2 - Northern,M,50 to 59,12754,735,5.76
+2017,Zone 2 - Northern,M,60 to 69,11970,680,5.68
+2017,Zone 2 - Northern,M,70 to 79,7408,387,5.22
+2017,Zone 2 - Northern,M,80 +,3515,194,5.52
+2017,Zone 1 - Western,F,0 to 9,7930,377,4.75
+2017,Zone 1 - Western,F,10 to 19,9633,1558,16.17
+2017,Zone 1 - Western,F,20 to 29,10880,2101,19.31
+2017,Zone 1 - Western,F,30 to 39,11567,1574,13.61
+2017,Zone 1 - Western,F,40 to 49,13378,1624,12.14
+2017,Zone 1 - Western,F,50 to 59,18197,2140,11.76
+2017,Zone 1 - Western,F,60 to 69,17531,1986,11.33
+2017,Zone 1 - Western,F,70 to 79,11671,1286,11.02
+2017,Zone 1 - Western,F,80 +,7752,645,8.32
+2017,Zone 1 - Western,M,0 to 9,8294,513,6.19
+2017,Zone 1 - Western,M,10 to 19,10103,2028,20.07
+2017,Zone 1 - Western,M,20 to 29,11137,2517,22.6
+2017,Zone 1 - Western,M,30 to 39,10975,1187,10.82
+2017,Zone 1 - Western,M,40 to 49,12843,941,7.33
+2017,Zone 1 - Western,M,50 to 59,17492,1132,6.47
+2017,Zone 1 - Western,M,60 to 69,16904,1032,6.11
+2017,Zone 1 - Western,M,70 to 79,10939,744,6.8
+2017,Zone 1 - Western,M,80 +,5358,337,6.29
+2018,Zone 4 - Central,F,0 to 9,20579,872,4.24
+2018,Zone 4 - Central,F,10 to 19,23166,3217,13.89
+2018,Zone 4 - Central,F,20 to 29,34103,5764,16.9
+2018,Zone 4 - Central,F,30 to 39,36903,4913,13.31
+2018,Zone 4 - Central,F,40 to 49,34906,4537,13
+2018,Zone 4 - Central,F,50 to 59,36771,4908,13.35
+2018,Zone 4 - Central,F,60 to 69,30841,4178,13.55
+2018,Zone 4 - Central,F,70 to 79,19490,2627,13.48
+2018,Zone 4 - Central,F,80 +,12018,1214,10.1
+2018,Zone 4 - Central,M,0 to 9,21698,1382,6.37
+2018,Zone 4 - Central,M,10 to 19,24225,4406,18.19
+2018,Zone 4 - Central,M,20 to 29,33681,6910,20.52
+2018,Zone 4 - Central,M,30 to 39,35397,4128,11.66
+2018,Zone 4 - Central,M,40 to 49,33156,2505,7.56
+2018,Zone 4 - Central,M,50 to 59,35773,2599,7.27
+2018,Zone 4 - Central,M,60 to 69,28724,2090,7.28
+2018,Zone 4 - Central,M,70 to 79,17217,1258,7.31
+2018,Zone 4 - Central,M,80 +,7846,534,6.81
+2018,Zone 3 - Eastern,F,0 to 9,6621,295,4.46
+2018,Zone 3 - Eastern,F,10 to 19,8184,1150,14.05
+2018,Zone 3 - Eastern,F,20 to 29,9326,1830,19.62
+2018,Zone 3 - Eastern,F,30 to 39,9479,1236,13.04
+2018,Zone 3 - Eastern,F,40 to 49,10524,1148,10.91
+2018,Zone 3 - Eastern,F,50 to 59,13759,1396,10.15
+2018,Zone 3 - Eastern,F,60 to 69,14533,1494,10.28
+2018,Zone 3 - Eastern,F,70 to 79,9835,1038,10.55
+2018,Zone 3 - Eastern,F,80 +,6351,504,7.94
+2018,Zone 3 - Eastern,M,0 to 9,6891,447,6.49
+2018,Zone 3 - Eastern,M,10 to 19,8730,1667,19.1
+2018,Zone 3 - Eastern,M,20 to 29,9631,2325,24.14
+2018,Zone 3 - Eastern,M,30 to 39,9673,1151,11.9
+2018,Zone 3 - Eastern,M,40 to 49,10522,731,6.95
+2018,Zone 3 - Eastern,M,50 to 59,13313,790,5.93
+2018,Zone 3 - Eastern,M,60 to 69,14078,813,5.77
+2018,Zone 3 - Eastern,M,70 to 79,9048,562,6.21
+2018,Zone 3 - Eastern,M,80 +,4101,247,6.02
+2018,Zone 2 - Northern,F,0 to 9,6472,273,4.22
+2018,Zone 2 - Northern,F,10 to 19,8106,1088,13.42
+2018,Zone 2 - Northern,F,20 to 29,8740,1692,19.36
+2018,Zone 2 - Northern,F,30 to 39,9236,1280,13.86
+2018,Zone 2 - Northern,F,40 to 49,10750,1377,12.81
+2018,Zone 2 - Northern,F,50 to 59,12902,1475,11.43
+2018,Zone 2 - Northern,F,60 to 69,12409,1377,11.1
+2018,Zone 2 - Northern,F,70 to 79,8258,916,11.09
+2018,Zone 2 - Northern,F,80 +,5345,424,7.93
+2018,Zone 2 - Northern,M,0 to 9,6812,418,6.14
+2018,Zone 2 - Northern,M,10 to 19,8368,1484,17.73
+2018,Zone 2 - Northern,M,20 to 29,9231,2127,23.04
+2018,Zone 2 - Northern,M,30 to 39,9108,1043,11.45
+2018,Zone 2 - Northern,M,40 to 49,10488,712,6.79
+2018,Zone 2 - Northern,M,50 to 59,12652,740,5.85
+2018,Zone 2 - Northern,M,60 to 69,12099,717,5.93
+2018,Zone 2 - Northern,M,70 to 79,7741,408,5.27
+2018,Zone 2 - Northern,M,80 +,3640,197,5.41
+2018,Zone 1 - Western,F,0 to 9,7914,351,4.44
+2018,Zone 1 - Western,F,10 to 19,9595,1468,15.3
+2018,Zone 1 - Western,F,20 to 29,10892,2148,19.72
+2018,Zone 1 - Western,F,30 to 39,11717,1622,13.84
+2018,Zone 1 - Western,F,40 to 49,13205,1643,12.44
+2018,Zone 1 - Western,F,50 to 59,18005,2128,11.82
+2018,Zone 1 - Western,F,60 to 69,17834,2042,11.45
+2018,Zone 1 - Western,F,70 to 79,12252,1377,11.24
+2018,Zone 1 - Western,F,80 +,7942,689,8.68
+2018,Zone 1 - Western,M,0 to 9,8246,498,6.04
+2018,Zone 1 - Western,M,10 to 19,10101,1933,19.14
+2018,Zone 1 - Western,M,20 to 29,11223,2539,22.62
+2018,Zone 1 - Western,M,30 to 39,11172,1317,11.79
+2018,Zone 1 - Western,M,40 to 49,12655,929,7.34
+2018,Zone 1 - Western,M,50 to 59,17230,1172,6.8
+2018,Zone 1 - Western,M,60 to 69,17215,1051,6.11
+2018,Zone 1 - Western,M,70 to 79,11580,800,6.91
+2018,Zone 1 - Western,M,80 +,5521,353,6.39
+2019,Zone 4 - Central,F,0 to 9,20883,842,4.03
+2019,Zone 4 - Central,F,10 to 19,23402,2989,12.77
+2019,Zone 4 - Central,F,20 to 29,34702,5667,16.33
+2019,Zone 4 - Central,F,30 to 39,38455,5162,13.42
+2019,Zone 4 - Central,F,40 to 49,35577,4675,13.14
+2019,Zone 4 - Central,F,50 to 59,36853,4877,13.23
+2019,Zone 4 - Central,F,60 to 69,31891,4372,13.71
+2019,Zone 4 - Central,F,70 to 79,20457,2843,13.9
+2019,Zone 4 - Central,F,80 +,12266,1275,10.39
+2019,Zone 4 - Central,M,0 to 9,21890,1334,6.09
+2019,Zone 4 - Central,M,10 to 19,24786,4188,16.9
+2019,Zone 4 - Central,M,20 to 29,34554,6786,19.64
+2019,Zone 4 - Central,M,30 to 39,37211,4575,12.29
+2019,Zone 4 - Central,M,40 to 49,33861,2612,7.71
+2019,Zone 4 - Central,M,50 to 59,35849,2645,7.38
+2019,Zone 4 - Central,M,60 to 69,29654,2213,7.46
+2019,Zone 4 - Central,M,70 to 79,18168,1350,7.43
+2019,Zone 4 - Central,M,80 +,8179,587,7.18
+2019,Zone 3 - Eastern,F,0 to 9,6480,298,4.6
+2019,Zone 3 - Eastern,F,10 to 19,8190,1083,13.22
+2019,Zone 3 - Eastern,F,20 to 29,9420,1835,19.48
+2019,Zone 3 - Eastern,F,30 to 39,9627,1320,13.71
+2019,Zone 3 - Eastern,F,40 to 49,10440,1170,11.21
+2019,Zone 3 - Eastern,F,50 to 59,13548,1390,10.26
+2019,Zone 3 - Eastern,F,60 to 69,14673,1510,10.29
+2019,Zone 3 - Eastern,F,70 to 79,10175,1088,10.69
+2019,Zone 3 - Eastern,F,80 +,6456,547,8.47
+2019,Zone 3 - Eastern,M,0 to 9,6693,427,6.38
+2019,Zone 3 - Eastern,M,10 to 19,8710,1564,17.96
+2019,Zone 3 - Eastern,M,20 to 29,9866,2359,23.91
+2019,Zone 3 - Eastern,M,30 to 39,9726,1264,13
+2019,Zone 3 - Eastern,M,40 to 49,10484,765,7.3
+2019,Zone 3 - Eastern,M,50 to 59,13074,796,6.09
+2019,Zone 3 - Eastern,M,60 to 69,14172,821,5.79
+2019,Zone 3 - Eastern,M,70 to 79,9507,581,6.11
+2019,Zone 3 - Eastern,M,80 +,4259,264,6.2
+2019,Zone 2 - Northern,F,0 to 9,6307,250,3.96
+2019,Zone 2 - Northern,F,10 to 19,8161,1031,12.63
+2019,Zone 2 - Northern,F,20 to 29,8738,1663,19.03
+2019,Zone 2 - Northern,F,30 to 39,9323,1327,14.23
+2019,Zone 2 - Northern,F,40 to 49,10668,1376,12.9
+2019,Zone 2 - Northern,F,50 to 59,12790,1479,11.56
+2019,Zone 2 - Northern,F,60 to 69,12651,1411,11.15
+2019,Zone 2 - Northern,F,70 to 79,8655,972,11.23
+2019,Zone 2 - Northern,F,80 +,5435,470,8.65
+2019,Zone 2 - Northern,M,0 to 9,6723,389,5.79
+2019,Zone 2 - Northern,M,10 to 19,8427,1380,16.38
+2019,Zone 2 - Northern,M,20 to 29,9259,2137,23.08
+2019,Zone 2 - Northern,M,30 to 39,9281,1160,12.5
+2019,Zone 2 - Northern,M,40 to 49,10393,725,6.98
+2019,Zone 2 - Northern,M,50 to 59,12495,741,5.93
+2019,Zone 2 - Northern,M,60 to 69,12314,730,5.93
+2019,Zone 2 - Northern,M,70 to 79,8149,454,5.57
+2019,Zone 2 - Northern,M,80 +,3692,197,5.34
+2019,Zone 1 - Western,F,0 to 9,7803,345,4.42
+2019,Zone 1 - Western,F,10 to 19,9575,1374,14.35
+2019,Zone 1 - Western,F,20 to 29,10909,2124,19.47
+2019,Zone 1 - Western,F,30 to 39,11893,1715,14.42
+2019,Zone 1 - Western,F,40 to 49,13157,1690,12.84
+2019,Zone 1 - Western,F,50 to 59,17655,2119,12
+2019,Zone 1 - Western,F,60 to 69,18268,2087,11.42
+2019,Zone 1 - Western,F,70 to 79,12908,1515,11.74
+2019,Zone 1 - Western,F,80 +,8057,716,8.89
+2019,Zone 1 - Western,M,0 to 9,8217,451,5.49
+2019,Zone 1 - Western,M,10 to 19,10081,1821,18.06
+2019,Zone 1 - Western,M,20 to 29,11280,2546,22.57
+2019,Zone 1 - Western,M,30 to 39,11411,1491,13.07
+2019,Zone 1 - Western,M,40 to 49,12605,922,7.31
+2019,Zone 1 - Western,M,50 to 59,16902,1174,6.95
+2019,Zone 1 - Western,M,60 to 69,17492,1094,6.25
+2019,Zone 1 - Western,M,70 to 79,12241,857,7
+2019,Zone 1 - Western,M,80 +,5687,365,6.42
+2020,Zone 4 - Central,F,0 to 9,20788,771,3.71
+2020,Zone 4 - Central,F,10 to 19,23943,2829,11.82
+2020,Zone 4 - Central,F,20 to 29,35630,5516,15.48
+2020,Zone 4 - Central,F,30 to 39,39730,5439,13.69
+2020,Zone 4 - Central,F,40 to 49,36042,4724,13.11
+2020,Zone 4 - Central,F,50 to 59,37076,4966,13.39
+2020,Zone 4 - Central,F,60 to 69,32904,4534,13.78
+2020,Zone 4 - Central,F,70 to 79,21511,3016,14.02
+2020,Zone 4 - Central,F,80 +,12514,1341,10.72
+2020,Zone 4 - Central,M,0 to 9,21795,1206,5.53
+2020,Zone 4 - Central,M,10 to 19,25296,3954,15.63
+2020,Zone 4 - Central,M,20 to 29,36172,6641,18.36
+2020,Zone 4 - Central,M,30 to 39,38460,5042,13.11
+2020,Zone 4 - Central,M,40 to 49,34419,2716,7.89
+2020,Zone 4 - Central,M,50 to 59,35865,2727,7.6
+2020,Zone 4 - Central,M,60 to 69,30678,2272,7.41
+2020,Zone 4 - Central,M,70 to 79,19122,1475,7.71
+2020,Zone 4 - Central,M,80 +,8529,612,7.18
+2020,Zone 3 - Eastern,F,0 to 9,6434,268,4.17
+2020,Zone 3 - Eastern,F,10 to 19,8190,1018,12.43
+2020,Zone 3 - Eastern,F,20 to 29,9885,1822,18.43
+2020,Zone 3 - Eastern,F,30 to 39,9823,1402,14.27
+2020,Zone 3 - Eastern,F,40 to 49,10469,1238,11.83
+2020,Zone 3 - Eastern,F,50 to 59,13150,1357,10.32
+2020,Zone 3 - Eastern,F,60 to 69,14921,1536,10.29
+2020,Zone 3 - Eastern,F,70 to 79,10558,1152,10.91
+2020,Zone 3 - Eastern,F,80 +,6606,570,8.63
+2020,Zone 3 - Eastern,M,0 to 9,6639,402,6.06
+2020,Zone 3 - Eastern,M,10 to 19,8692,1441,16.58
+2020,Zone 3 - Eastern,M,20 to 29,10554,2358,22.34
+2020,Zone 3 - Eastern,M,30 to 39,10125,1450,14.32
+2020,Zone 3 - Eastern,M,40 to 49,10364,774,7.47
+2020,Zone 3 - Eastern,M,50 to 59,12820,783,6.11
+2020,Zone 3 - Eastern,M,60 to 69,14334,875,6.1
+2020,Zone 3 - Eastern,M,70 to 79,9873,587,5.95
+2020,Zone 3 - Eastern,M,80 +,4460,286,6.41
+2020,Zone 2 - Northern,F,0 to 9,6222,207,3.33
+2020,Zone 2 - Northern,F,10 to 19,8214,967,11.77
+2020,Zone 2 - Northern,F,20 to 29,8785,1622,18.46
+2020,Zone 2 - Northern,F,30 to 39,9473,1418,14.97
+2020,Zone 2 - Northern,F,40 to 49,10541,1379,13.08
+2020,Zone 2 - Northern,F,50 to 59,12700,1496,11.78
+2020,Zone 2 - Northern,F,60 to 69,12977,1446,11.14
+2020,Zone 2 - Northern,F,70 to 79,9006,1021,11.34
+2020,Zone 2 - Northern,F,80 +,5571,494,8.87
+2020,Zone 2 - Northern,M,0 to 9,6650,341,5.13
+2020,Zone 2 - Northern,M,10 to 19,8461,1294,15.29
+2020,Zone 2 - Northern,M,20 to 29,9444,2120,22.45
+2020,Zone 2 - Northern,M,30 to 39,9436,1266,13.42
+2020,Zone 2 - Northern,M,40 to 49,10271,744,7.24
+2020,Zone 2 - Northern,M,50 to 59,12423,748,6.02
+2020,Zone 2 - Northern,M,60 to 69,12504,758,6.06
+2020,Zone 2 - Northern,M,70 to 79,8517,493,5.79
+2020,Zone 2 - Northern,M,80 +,3874,218,5.63
+2020,Zone 1 - Western,F,0 to 9,7795,300,3.85
+2020,Zone 1 - Western,F,10 to 19,9604,1294,13.47
+2020,Zone 1 - Western,F,20 to 29,10939,2082,19.03
+2020,Zone 1 - Western,F,30 to 39,12187,1817,14.91
+2020,Zone 1 - Western,F,40 to 49,13085,1720,13.14
+2020,Zone 1 - Western,F,50 to 59,17343,2074,11.96
+2020,Zone 1 - Western,F,60 to 69,18781,2184,11.63
+2020,Zone 1 - Western,F,70 to 79,13487,1613,11.96
+2020,Zone 1 - Western,F,80 +,8250,739,8.96
+2020,Zone 1 - Western,M,0 to 9,8144,424,5.21
+2020,Zone 1 - Western,M,10 to 19,10043,1647,16.4
+2020,Zone 1 - Western,M,20 to 29,11568,2583,22.33
+2020,Zone 1 - Western,M,30 to 39,11737,1644,14.01
+2020,Zone 1 - Western,M,40 to 49,12460,946,7.59
+2020,Zone 1 - Western,M,50 to 59,16739,1158,6.92
+2020,Zone 1 - Western,M,60 to 69,17973,1156,6.43
+2020,Zone 1 - Western,M,70 to 79,12663,896,7.08
+2020,Zone 1 - Western,M,80 +,5925,389,6.57
+2021,Zone 4 - Central,F,0 to 9,21159,734,3.47
+2021,Zone 4 - Central,F,10 to 19,24637,2663,10.81
+2021,Zone 4 - Central,F,20 to 29,35499,5309,14.96
+2021,Zone 4 - Central,F,30 to 39,41614,5705,13.71
+2021,Zone 4 - Central,F,40 to 49,36951,4834,13.08
+2021,Zone 4 - Central,F,50 to 59,37259,5020,13.47
+2021,Zone 4 - Central,F,60 to 69,34108,4720,13.84
+2021,Zone 4 - Central,F,70 to 79,22582,3177,14.07
+2021,Zone 4 - Central,F,80 +,12963,1429,11.02
+2021,Zone 4 - Central,M,0 to 9,22180,1197,5.4
+2021,Zone 4 - Central,M,10 to 19,26074,3711,14.23
+2021,Zone 4 - Central,M,20 to 29,36016,6481,17.99
+2021,Zone 4 - Central,M,30 to 39,40266,5485,13.62
+2021,Zone 4 - Central,M,40 to 49,35492,2870,8.09
+2021,Zone 4 - Central,M,50 to 59,35885,2709,7.55
+2021,Zone 4 - Central,M,60 to 69,32116,2434,7.58
+2021,Zone 4 - Central,M,70 to 79,19888,1577,7.93
+2021,Zone 4 - Central,M,80 +,8920,641,7.19
+2021,Zone 3 - Eastern,F,0 to 9,6401,251,3.92
+2021,Zone 3 - Eastern,F,10 to 19,8274,943,11.4
+2021,Zone 3 - Eastern,F,20 to 29,9910,1806,18.22
+2021,Zone 3 - Eastern,F,30 to 39,10086,1505,14.92
+2021,Zone 3 - Eastern,F,40 to 49,10464,1257,12.01
+2021,Zone 3 - Eastern,F,50 to 59,12992,1353,10.41
+2021,Zone 3 - Eastern,F,60 to 69,15135,1536,10.15
+2021,Zone 3 - Eastern,F,70 to 79,10912,1198,10.98
+2021,Zone 3 - Eastern,F,80 +,6804,610,8.97
+2021,Zone 3 - Eastern,M,0 to 9,6609,373,5.64
+2021,Zone 3 - Eastern,M,10 to 19,8709,1353,15.54
+2021,Zone 3 - Eastern,M,20 to 29,10613,2327,21.93
+2021,Zone 3 - Eastern,M,30 to 39,10441,1579,15.12
+2021,Zone 3 - Eastern,M,40 to 49,10340,809,7.82
+2021,Zone 3 - Eastern,M,50 to 59,12639,775,6.13
+2021,Zone 3 - Eastern,M,60 to 69,14521,887,6.11
+2021,Zone 3 - Eastern,M,70 to 79,10255,637,6.21
+2021,Zone 3 - Eastern,M,80 +,4708,295,6.27
+2021,Zone 2 - Northern,F,0 to 9,6165,188,3.05
+2021,Zone 2 - Northern,F,10 to 19,8295,894,10.78
+2021,Zone 2 - Northern,F,20 to 29,8787,1582,18
+2021,Zone 2 - Northern,F,30 to 39,9728,1493,15.35
+2021,Zone 2 - Northern,F,40 to 49,10528,1405,13.35
+2021,Zone 2 - Northern,F,50 to 59,12632,1488,11.78
+2021,Zone 2 - Northern,F,60 to 69,13373,1497,11.19
+2021,Zone 2 - Northern,F,70 to 79,9400,1072,11.4
+2021,Zone 2 - Northern,F,80 +,5756,521,9.05
+2021,Zone 2 - Northern,M,0 to 9,6625,312,4.71
+2021,Zone 2 - Northern,M,10 to 19,8556,1190,13.91
+2021,Zone 2 - Northern,M,20 to 29,9438,2095,22.2
+2021,Zone 2 - Northern,M,30 to 39,9777,1403,14.35
+2021,Zone 2 - Northern,M,40 to 49,10160,745,7.33
+2021,Zone 2 - Northern,M,50 to 59,12394,757,6.11
+2021,Zone 2 - Northern,M,60 to 69,12827,784,6.11
+2021,Zone 2 - Northern,M,70 to 79,8817,524,5.94
+2021,Zone 2 - Northern,M,80 +,4090,218,5.33
+2021,Zone 1 - Western,F,0 to 9,7823,265,3.39
+2021,Zone 1 - Western,F,10 to 19,9766,1202,12.31
+2021,Zone 1 - Western,F,20 to 29,11039,2044,18.52
+2021,Zone 1 - Western,F,30 to 39,12630,1893,14.99
+2021,Zone 1 - Western,F,40 to 49,13141,1744,13.27
+2021,Zone 1 - Western,F,50 to 59,17185,2055,11.96
+2021,Zone 1 - Western,F,60 to 69,19451,2260,11.62
+2021,Zone 1 - Western,F,70 to 79,14079,1727,12.27
+2021,Zone 1 - Western,F,80 +,8488,763,8.99
+2021,Zone 1 - Western,M,0 to 9,8197,402,4.9
+2021,Zone 1 - Western,M,10 to 19,10243,1517,14.81
+2021,Zone 1 - Western,M,20 to 29,11618,2568,22.1
+2021,Zone 1 - Western,M,30 to 39,12184,1790,14.69
+2021,Zone 1 - Western,M,40 to 49,12655,988,7.81
+2021,Zone 1 - Western,M,50 to 59,16417,1155,7.04
+2021,Zone 1 - Western,M,60 to 69,18572,1206,6.49
+2021,Zone 1 - Western,M,70 to 79,13155,945,7.18
+2021,Zone 1 - Western,M,80 +,6206,419,6.75
+2022,Zone 4 - Central,F,0 to 9,22096,785,3.55
+2022,Zone 4 - Central,F,10 to 19,25777,2543,9.87
+2022,Zone 4 - Central,F,20 to 29,35574,5015,14.1
+2022,Zone 4 - Central,F,30 to 39,44340,5953,13.43
+2022,Zone 4 - Central,F,40 to 49,38687,4967,12.84
+2022,Zone 4 - Central,F,50 to 59,37169,4951,13.32
+2022,Zone 4 - Central,F,60 to 69,35323,4911,13.9
+2022,Zone 4 - Central,F,70 to 79,23520,3337,14.19
+2022,Zone 4 - Central,F,80 +,13449,1571,11.68
+2022,Zone 4 - Central,M,0 to 9,23100,1266,5.48
+2022,Zone 4 - Central,M,10 to 19,27368,3510,12.83
+2022,Zone 4 - Central,M,20 to 29,35843,6268,17.49
+2022,Zone 4 - Central,M,30 to 39,43045,5882,13.66
+2022,Zone 4 - Central,M,40 to 49,37256,3034,8.14
+2022,Zone 4 - Central,M,50 to 59,35942,2709,7.54
+2022,Zone 4 - Central,M,60 to 69,33468,2579,7.71
+2022,Zone 4 - Central,M,70 to 79,20670,1658,8.02
+2022,Zone 4 - Central,M,80 +,9460,718,7.59
+2022,Zone 3 - Eastern,F,0 to 9,6459,235,3.64
+2022,Zone 3 - Eastern,F,10 to 19,8380,872,10.41
+2022,Zone 3 - Eastern,F,20 to 29,10060,1772,17.61
+2022,Zone 3 - Eastern,F,30 to 39,10692,1587,14.84
+2022,Zone 3 - Eastern,F,40 to 49,10574,1259,11.91
+2022,Zone 3 - Eastern,F,50 to 59,12631,1351,10.7
+2022,Zone 3 - Eastern,F,60 to 69,15412,1510,9.8
+2022,Zone 3 - Eastern,F,70 to 79,11288,1263,11.19
+2022,Zone 3 - Eastern,F,80 +,6994,638,9.12
+2022,Zone 3 - Eastern,M,0 to 9,6737,358,5.31
+2022,Zone 3 - Eastern,M,10 to 19,8768,1276,14.55
+2022,Zone 3 - Eastern,M,20 to 29,10631,2267,21.32
+2022,Zone 3 - Eastern,M,30 to 39,10972,1739,15.85
+2022,Zone 3 - Eastern,M,40 to 49,10559,856,8.11
+2022,Zone 3 - Eastern,M,50 to 59,12334,760,6.16
+2022,Zone 3 - Eastern,M,60 to 69,14624,905,6.19
+2022,Zone 3 - Eastern,M,70 to 79,10650,662,6.22
+2022,Zone 3 - Eastern,M,80 +,4954,305,6.16
+2022,Zone 2 - Northern,F,0 to 9,6207,206,3.32
+2022,Zone 2 - Northern,F,10 to 19,8356,819,9.8
+2022,Zone 2 - Northern,F,20 to 29,8746,1532,17.52
+2022,Zone 2 - Northern,F,30 to 39,9997,1563,15.63
+2022,Zone 2 - Northern,F,40 to 49,10619,1414,13.32
+2022,Zone 2 - Northern,F,50 to 59,12503,1469,11.75
+2022,Zone 2 - Northern,F,60 to 69,13668,1524,11.15
+2022,Zone 2 - Northern,F,70 to 79,9763,1114,11.41
+2022,Zone 2 - Northern,F,80 +,5899,562,9.53
+2022,Zone 2 - Northern,M,0 to 9,6654,331,4.97
+2022,Zone 2 - Northern,M,10 to 19,8679,1105,12.73
+2022,Zone 2 - Northern,M,20 to 29,9319,2074,22.26
+2022,Zone 2 - Northern,M,30 to 39,10095,1523,15.09
+2022,Zone 2 - Northern,M,40 to 49,10200,785,7.7
+2022,Zone 2 - Northern,M,50 to 59,12340,751,6.09
+2022,Zone 2 - Northern,M,60 to 69,13019,825,6.34
+2022,Zone 2 - Northern,M,70 to 79,9133,531,5.81
+2022,Zone 2 - Northern,M,80 +,4271,235,5.5
+2022,Zone 1 - Western,F,0 to 9,7865,299,3.8
+2022,Zone 1 - Western,F,10 to 19,9896,1103,11.15
+2022,Zone 1 - Western,F,20 to 29,11085,2000,18.04
+2022,Zone 1 - Western,F,30 to 39,13021,1965,15.09
+2022,Zone 1 - Western,F,40 to 49,13347,1762,13.2
+2022,Zone 1 - Western,F,50 to 59,16888,2042,12.09
+2022,Zone 1 - Western,F,60 to 69,19986,2301,11.51
+2022,Zone 1 - Western,F,70 to 79,14508,1813,12.5
+2022,Zone 1 - Western,F,80 +,8857,832,9.39
+2022,Zone 1 - Western,M,0 to 9,8290,422,5.09
+2022,Zone 1 - Western,M,10 to 19,10461,1405,13.43
+2022,Zone 1 - Western,M,20 to 29,11574,2537,21.92
+2022,Zone 1 - Western,M,30 to 39,12653,1968,15.55
+2022,Zone 1 - Western,M,40 to 49,12816,1001,7.81
+2022,Zone 1 - Western,M,50 to 59,16264,1159,7.13
+2022,Zone 1 - Western,M,60 to 69,18973,1236,6.51
+2022,Zone 1 - Western,M,70 to 79,13598,979,7.2
+2022,Zone 1 - Western,M,80 +,6462,449,6.95
